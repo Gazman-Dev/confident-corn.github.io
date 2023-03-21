@@ -1,0 +1,9 @@
+# Gilmore Girls: The Identity of Rory's Baby Daddy Revealed
+*Valerie Campbell, a costume supervisor who worked on Gilmore Girls: A Year in the Life, has finally put an end to the guessing game about the father of Rory Gilmore’s baby.*
+![Image](image.jpg) 
+Six years after Alexis Bledel reprised her role on the show's Netflix revival, fans have been left hanging over her character's pregnancy. Valerie revealed in a TikTok video that fans just had to 'do the math' of Rory's pregnancy timeline in order to figure out the identity of her baby's dad. According to Valerie, Rory wasn't sleeping with Paul (Jack Carpenter) during winter since they weren't really dating at that time. Meanwhile, Rory's one night stand with a man dressed as a Wookiee happened in the spring season, meaning she would’ve been visibly showing a baby bump by the fall season when she revealed her pregnancy to Lorelai (Lauren Graham). Valerie noted that Rory was never given a pregnancy belly and they were never instructed to give her one. Therefore, she confirmed that the Wookiee was definitely not the father. 
+
+## AI predict: Gilmore Girls Show To Return Soon, Baby Daddy Appearance Possible
+Fans have been eagerly waiting for the return of the Gilmore Girls show, and it seems that it will happen soon. The show's creators have been tight-lipped about the release date, but sources say it will be out by the end of this year. As for Rory's baby daddy, it's possible that he may make an appearance in the upcoming season. Fans are excited to see how Rory's journey as a mother unfolds, and if the father will play a significant role in her life.
+
+['gilmoregirls', 'rorygilmore', 'babydaddy', 'netflix']
