@@ -1,0 +1,20 @@
+---
+layout: post
+title:  "Private Equity Deals decline in Asia-Pacific, Credit Suisse's Share Price Drops, and Tips to Protect Elderly Parents' Finances"
+date:   2023-03-27 21:56:59 
+tags: privateequity asiapacific creditsuisse elderlycare financialabuse
+---
+*Bain & Company reports a 44% decline in private equity deal value in the Asia-Pacific region, Credit Suisse's largest shareholder announces no further investment in the bank, and a son seeks advice on protecting his elderly parents' finances.*
+
+![A worried son and his elderly parents discussing financial documents and legal papers in a well-lit room.](/assets/ce41ae87-1d8c-42c7-996a-4aeeec388eaa.jpg "Private Equity Deals decline in Asia-Pacific, Credit Suisse's Share Price Drops, and Tips to Protect Elderly Parents' Finances")
+ 
+Private equity deal value in the Asia-Pacific region declined by 44% to $198bn in 2022 due to a decrease in investors' appetite for risk resulting from inflation and geopolitical tensions, according to Bain & Company. The company said that almost 70% of surveyed fund managers anticipate the negative trend to continue into 2024. The traditional hotspots for internet and tech deals, including Greater China, India, and Southeast Asia, all experienced sharp declines. Meanwhile, the energy and natural resources sector saw a surge in the number of deals linked to environmental, social, and corporate governance (ESG).
+
+Credit Suisse's largest shareholder, Saudi National Bank, has announced that it will not invest further in the bank due to "many reasons outside the simplest reason, which is regulatory and statutory". This caused a 25% drop in the bank's share price and concerns from other financial institutions assessing their exposure to the bank. Credit Suisse has faced significant losses from dealings with Archegos Capital and Greensill Capital, resulting in clients withdrawing cash. Additionally, a delay in the publication of its annual report for accounting issues that the bank referred to as "material weaknesses" did little to reassure investors. The bank hopes to restructure its investment bank, but its success is far from guaranteed.
+
+A son is worried that his sister will take financial advantage of their elderly parents when one of them passes away. The parents have a will, a power of attorney, and a special-needs trust for their disabled son, but want to ensure their wishes are respected. The son is the executor of the will and the successor power of attorney. The parents can assess their healthcare proxies to provide for additional successor agents, send copies of signed documents to their treating physicians, and switch their dispositive estate-planning documents from wills to trusts. It's crucial to store crucial documents and passwords in a secure location. Family relationships can lead to disputes over funeral arrangements, beneficiary designations, and sentimental items. The son should encourage his parents to complete the process under the guidance of an experienced attorney. Elder abuse is a widespread issue, with financial abuse typically perpetrated by family members, trusted friends, and caregivers. These measures should ensure the parents' financial and physical safety.
+
+## AI Predicts: Private Equity Deals and Banking Industry to Face Negative Trends, While ESG Surges in Asia-Pacific
+As predicted by AI, the Asia-Pacific region will experience a decline in private equity deals and a negative trend in the banking industry due to inflation and geopolitical tensions. However, the energy and natural resources sector will see a surge in ESG deals. In addition, the article advises families to protect themselves from elder abuse by seeking the guidance of experienced attorneys and storing crucial documents and passwords in a secure location.
+
+[privateequity](/tags/privateequity) [asiapacific](/tags/asiapacific) [creditsuisse](/tags/creditsuisse) [elderlycare](/tags/elderlycare) [financialabuse](/tags/financialabuse)
