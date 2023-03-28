@@ -1,0 +1,20 @@
+---
+layout: post
+title:  "Former Morgan Stanley Advisor Arrested for Defrauding NBA Players, Global Inflation Rates Soar, and West Coast Housing Market Slows"
+date:   2023-03-27 21:47:04 
+tags: MorganStanley NBAClients InflationRates HousingMarket MortgageRates
+---
+*Former Morgan Stanley advisor Darryl Cohen arrested on charges of defrauding NBA players, global inflation rates soar, and West Coast housing market experiences slowdown due to high mortgage rates and tech industry layoffs.*
+
+![A house for sale with a 'For Sale' sign in the yard, with a grey sky in the background and a person looking sad in the foreground.](/assets/ce4cabf9-c657-4df1-a800-e993d2c62860.jpg "Former Morgan Stanley Advisor Arrested for Defrauding NBA Players, Global Inflation Rates Soar, and West Coast Housing Market Slows")
+ 
+Former Morgan Stanley advisor Darryl Cohen has been arrested on charges of defrauding NBA players, including Jrue Holiday, Chandler Parsons, and Courtney Lee. Along with three others, including former NBA players agent Charles Briscoe, Cohen was charged with fraud schemes to transfer roughly $13m from NBA clients for personal uses. Cohen is charged with one count of conspiracy to commit wire fraud and one count of wire fraud, while Briscoe and Calvin Darden Jr. are alleged to have misappropriated $7m. The three basketball players had previously filed claims against Morgan Stanley with FINRA, which were later settled.
+
+In other news, global inflation rates have soared to approximately 9% in 2022, with fuel and food costs being the primary drivers. The COVID-19 pandemic has had a lingering impact on supply chains, which has been further exacerbated by Russia's invasion of Ukraine in February. Western countries imposed sanctions on Russia, causing the cost of oil to increase by a third, and Russia's blockades of grain exports from Ukraine led to a surge in food prices. This supply shock has affected citizens worldwide, with millions in Europe struggling to afford heating this winter. Consumer prices in America are on track to have risen by about 7%, the highest in four decades, while Germany will experience its first bout of double-digit inflation since 1951, with a rate of approximately 10%. The situation is expected to improve in the coming year, but at a severe cost to economic growth.
+
+The West Coast housing market is experiencing a slowdown due to high mortgage rates and tech industry layoffs, according to a report from Redfin. The biggest cities on the West Coast, including Seattle and San Jose, as well as pandemic boom towns like Austin and Phoenix, have experienced the fastest slowing of housing markets. Austin has experienced the fastest drop in prices, supply, pending sales, and other metrics, followed by Seattle and Phoenix. The pullback in buying has accompanied a surge in mortgage rates, with the 30-year rate averaging at 6.54%. However, amidst these high rates and low inventory, more affordable housing markets in the Midwest and Northeast continue to hold up in terms of sales and listings.
+
+## AI Predicts: How the World Will be Impacted by Recent Events
+The world is about to undergo significant changes following recent events. With the rise of inflation rates, citizens worldwide will struggle to afford basic necessities like food and heating. The housing market in some of the biggest cities in the West Coast and pandemic boomtowns is experiencing a slowdown due to high mortgage rates and layoff in the tech industry, while more affordable housing markets in the Midwest and Northeast continue to hold up. As for the financial industry, the recent arrest of Morgan Stanley advisor Darryl Cohen on charges of defrauding NBA players highlights the need for better safeguards in the industry. Using AI to identify and prevent fraud could be a game-changer, ensuring that financial advisors act in their clients' best interests, rather than their own personal gain.
+
+[MorganStanley](/tags/MorganStanley) [NBAClients](/tags/NBAClients) [InflationRates](/tags/InflationRates) [HousingMarket](/tags/HousingMarket) [MortgageRates](/tags/MortgageRates)
