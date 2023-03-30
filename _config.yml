@@ -21,7 +21,7 @@
 title: Confident Corn
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Welcome to "Confident Corn," where the latest news meets cutting-edge AI technology. Our ChatGPT-powered platform delivers accurate, up-to-date news from around the globe, allowing you to stay informed with ease. Experience the future of news consumption at Confident Corn and join our growing community of well-informed readers today.
+  Welcome to our news website! Our AI-generated news articles use ChatGPT to provide you with up-to-date and accurate business and economic news, along with unique AI predictions for each piece. Our coverage is unbiased, as our articles are not written by humans, ensuring transparency and integrity in all our reporting. Stay informed and make smarter decisions with our reliable and innovative news platform.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://confident-corn.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
