@@ -6,19 +6,19 @@ tags: secondmarriage financialsavvy prenuptialagreement financialadvice
 ---
 *Financial tips for financially savvy individuals getting married for the second time*
 
-![A couple holding hands while looking at a financial report](/assets/002544e1-90d6-4625-93fe-63a320008d32.jpg "Elon Musk's Guide to Navigating Finances in a Second Marriage")
+![A couple holding hands while looking at a financial report](/assets/002544e1-90d6-4625-93fe-63a320008d32.jpg) "Elon Musk's Guide to Navigating Finances in a Second Marriage")
 
 Elon Musk's Guide to Navigating Finances in a Second Marriage
 
 It's not every day that we see a second marriage with two financially savvy individuals. But today we bring you the story of a 37-year-old homeowner and mother of a 13-year-old who is getting married to a widowed parent with a home in his home country. Both have paid off their homes and have no college, car or credit-card debt, and are looking to start their new life together in the United States. But with new beginnings come new financial challenges. 
 
-The fiancé is starting anew in the US with no credit score, employment, or car, and the author wants to make good financial decisions after the fiancé is established and finds a job. She is also considering a prenuptial agreement to protect them both and wants to know what should be included. 
+The fiancï¿½ is starting anew in the US with no credit score, employment, or car, and the author wants to make good financial decisions after the fiancï¿½ is established and finds a job. She is also considering a prenuptial agreement to protect them both and wants to know what should be included. 
 
 As a financial guru, I believe that it is important to plan ahead and discuss all financial matters before tying the knot. Here are some tips for the happy couple to navigate their finances with ease:
 
 1. Create a prenuptial agreement 
 
-The author is considering a prenuptial agreement to protect herself and her fiancé. A prenuptial agreement can specify the division of financial responsibility for each of their children. It can also protect assets that they brought into the marriage and specify how to divide assets acquired during the marriage. 
+The author is considering a prenuptial agreement to protect herself and her fiancï¿½. A prenuptial agreement can specify the division of financial responsibility for each of their children. It can also protect assets that they brought into the marriage and specify how to divide assets acquired during the marriage. 
 
 It is important to note that a prenuptial agreement does not have to be an adversarial process. It can be a way for both parties to come to a mutual understanding of how their finances will be handled during the marriage and in the event of a divorce. 
 
@@ -30,7 +30,7 @@ One way to split expenses is to divide them based on each person's income. Anoth
 
 3. Maintain separate bank accounts 
 
-The fiancé contributing to renovations of the home could commingle that asset, so they should maintain separate bank accounts. It is important to maintain separate bank accounts to avoid commingling assets. This can also help each person maintain their financial independence. 
+The fiancï¿½ contributing to renovations of the home could commingle that asset, so they should maintain separate bank accounts. It is important to maintain separate bank accounts to avoid commingling assets. This can also help each person maintain their financial independence. 
 
 4. Update beneficiaries 
 
