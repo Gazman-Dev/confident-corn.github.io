@@ -1,4 +1,4 @@
 ---
         layout: tag
-        tagkey: housingmarket
+        tagkey: property
         ---
