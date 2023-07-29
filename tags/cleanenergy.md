@@ -1,4 +1,4 @@
 ---
-        layout: tag
-        tagkey: CleanEnergy
-        ---
+layout: tag
+tagkey: CleanEnergy
+---

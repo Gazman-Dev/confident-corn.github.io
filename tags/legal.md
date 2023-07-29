@@ -1,4 +1,4 @@
 ---
-        layout: tag
-        tagkey: legal
-        ---
+layout: tag
+tagkey: legal
+---

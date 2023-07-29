@@ -1,4 +1,4 @@
 ---
-        layout: tag
-        tagkey: ElectricVehicle
-        ---
+layout: tag
+tagkey: ElectricVehicle
+---

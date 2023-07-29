@@ -1,4 +1,4 @@
 ---
-        layout: tag
-        tagkey: GoldmanSachs
-        ---
+layout: tag
+tagkey: GoldmanSachs
+---

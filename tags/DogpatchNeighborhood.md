@@ -1,4 +1,4 @@
 ---
-        layout: tag
-        tagkey: DogpatchNeighborhood
-        ---
+layout: tag
+tagkey: DogpatchNeighborhood
+---

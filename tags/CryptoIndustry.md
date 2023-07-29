@@ -1,4 +1,4 @@
 ---
-        layout: tag
-        tagkey: CryptoIndustry
-        ---
+layout: tag
+tagkey: CryptoIndustry
+---

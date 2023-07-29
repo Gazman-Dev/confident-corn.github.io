@@ -1,4 +1,4 @@
 ---
-        layout: tag
-        tagkey: global
-        ---
+layout: tag
+tagkey: global
+---

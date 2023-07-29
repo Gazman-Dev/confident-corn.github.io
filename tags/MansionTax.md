@@ -1,4 +1,4 @@
 ---
-        layout: tag
-        tagkey: MansionTax
-        ---
+layout: tag
+tagkey: MansionTax
+---

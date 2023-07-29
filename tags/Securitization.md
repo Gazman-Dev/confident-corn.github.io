@@ -1,4 +1,4 @@
 ---
-        layout: tag
-        tagkey: Securitization
-        ---
+layout: tag
+tagkey: Securitization
+---

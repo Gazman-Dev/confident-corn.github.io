@@ -1,4 +1,4 @@
 ---
-        layout: tag
-        tagkey: EconomicsGeopolitics
-        ---
+layout: tag
+tagkey: EconomicsGeopolitics
+---

@@ -1,4 +1,4 @@
 ---
-        layout: tag
-        tagkey: OPEC
-        ---
+layout: tag
+tagkey: OPEC
+---

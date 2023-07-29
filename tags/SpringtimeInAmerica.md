@@ -1,4 +1,4 @@
 ---
-        layout: tag
-        tagkey: SpringtimeInAmerica
-        ---
+layout: tag
+tagkey: SpringtimeInAmerica
+---

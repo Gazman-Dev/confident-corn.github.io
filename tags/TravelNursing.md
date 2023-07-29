@@ -1,4 +1,4 @@
 ---
-        layout: tag
-        tagkey: TravelNursing
-        ---
+layout: tag
+tagkey: TravelNursing
+---

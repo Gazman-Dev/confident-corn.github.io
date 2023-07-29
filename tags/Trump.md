@@ -1,4 +1,4 @@
 ---
-        layout: tag
-        tagkey: Trump
-        ---
+layout: tag
+tagkey: Trump
+---

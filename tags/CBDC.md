@@ -1,4 +1,4 @@
 ---
-        layout: tag
-        tagkey: CBDC
-        ---
+layout: tag
+tagkey: CBDC
+---

@@ -1,4 +1,4 @@
 ---
-        layout: tag
-        tagkey: financialadvice
-        ---
+layout: tag
+tagkey: financialadvice
+---

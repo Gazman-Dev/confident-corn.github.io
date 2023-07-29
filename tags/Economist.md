@@ -1,4 +1,4 @@
 ---
-        layout: tag
-        tagkey: Economist
-        ---
+layout: tag
+tagkey: Economist
+---

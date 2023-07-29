@@ -1,4 +1,4 @@
 ---
-        layout: tag
-        tagkey: USBankingCrisis
-        ---
+layout: tag
+tagkey: USBankingCrisis
+---

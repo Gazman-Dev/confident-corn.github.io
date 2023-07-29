@@ -1,4 +1,4 @@
 ---
-        layout: tag
-        tagkey: SanFrancisco
-        ---
+layout: tag
+tagkey: SanFrancisco
+---

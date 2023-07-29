@@ -1,4 +1,4 @@
 ---
-        layout: tag
-        tagkey: family
-        ---
+layout: tag
+tagkey: family
+---

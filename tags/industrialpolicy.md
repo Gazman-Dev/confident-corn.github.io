@@ -1,4 +1,4 @@
 ---
-        layout: tag
-        tagkey: industrialpolicy
-        ---
+layout: tag
+tagkey: industrialpolicy
+---

@@ -1,4 +1,4 @@
 ---
-        layout: tag
-        tagkey: CryptoQuant
-        ---
+layout: tag
+tagkey: CryptoQuant
+---

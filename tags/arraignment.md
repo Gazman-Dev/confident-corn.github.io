@@ -1,4 +1,4 @@
 ---
-        layout: tag
-        tagkey: arraignment
-        ---
+layout: tag
+tagkey: arraignment
+---

@@ -1,4 +1,4 @@
 ---
-        layout: tag
-        tagkey: AffordableHousing
-        ---
+layout: tag
+tagkey: AffordableHousing
+---

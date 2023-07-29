@@ -1,4 +1,4 @@
 ---
-        layout: tag
-        tagkey: India
-        ---
+layout: tag
+tagkey: India
+---

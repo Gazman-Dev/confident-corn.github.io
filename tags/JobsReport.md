@@ -1,4 +1,4 @@
 ---
-        layout: tag
-        tagkey: JobsReport
-        ---
+layout: tag
+tagkey: JobsReport
+---

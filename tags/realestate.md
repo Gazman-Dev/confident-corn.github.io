@@ -1,4 +1,4 @@
 ---
-        layout: tag
-        tagkey: realestate
-        ---
+layout: tag
+tagkey: realestate
+---

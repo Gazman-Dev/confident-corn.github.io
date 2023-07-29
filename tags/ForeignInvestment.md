@@ -1,4 +1,4 @@
 ---
-        layout: tag
-        tagkey: ForeignInvestment
-        ---
+layout: tag
+tagkey: ForeignInvestment
+---

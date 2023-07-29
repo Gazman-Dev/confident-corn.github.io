@@ -1,4 +1,4 @@
 ---
-        layout: tag
-        tagkey: banking
-        ---
+layout: tag
+tagkey: banking
+---

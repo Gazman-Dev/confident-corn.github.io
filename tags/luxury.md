@@ -1,4 +1,4 @@
 ---
 layout: tag
-tagkey: reshoring
+tagkey: luxury
 ---

@@ -1,4 +1,4 @@
 ---
-        layout: tag
-        tagkey: RussiaUkraine
-        ---
+layout: tag
+tagkey: RussiaUkraine
+---

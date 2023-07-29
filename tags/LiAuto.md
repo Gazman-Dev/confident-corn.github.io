@@ -1,4 +1,4 @@
 ---
-        layout: tag
-        tagkey: LiAuto
-        ---
+layout: tag
+tagkey: LiAuto
+---

@@ -1,4 +1,4 @@
 ---
-        layout: tag
-        tagkey: DowJones
-        ---
+layout: tag
+tagkey: DowJones
+---

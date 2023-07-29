@@ -1,4 +1,4 @@
 ---
-        layout: tag
-        tagkey: financialcrisis
-        ---
+layout: tag
+tagkey: financialcrisis
+---

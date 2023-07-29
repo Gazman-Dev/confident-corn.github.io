@@ -1,4 +1,4 @@
 ---
-        layout: tag
-        tagkey: infantindustry
-        ---
+layout: tag
+tagkey: infantindustry
+---

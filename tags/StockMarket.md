@@ -1,4 +1,4 @@
 ---
-        layout: tag
-        tagkey: StockMarket
-        ---
+layout: tag
+tagkey: StockMarket
+---

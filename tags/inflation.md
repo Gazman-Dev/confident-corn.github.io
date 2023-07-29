@@ -1,4 +1,4 @@
 ---
-        layout: tag
-        tagkey: inflation
-        ---
+layout: tag
+tagkey: inflation
+---

@@ -1,4 +1,4 @@
 ---
-        layout: tag
-        tagkey: GlobalTrade
-        ---
+layout: tag
+tagkey: GlobalTrade
+---

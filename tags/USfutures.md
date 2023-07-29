@@ -1,4 +1,4 @@
 ---
-        layout: tag
-        tagkey: USfutures
-        ---
+layout: tag
+tagkey: USfutures
+---

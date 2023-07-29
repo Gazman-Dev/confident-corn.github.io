@@ -1,4 +1,4 @@
 ---
-        layout: tag
-        tagkey: ClimateChange
-        ---
+layout: tag
+tagkey: ClimateChange
+---

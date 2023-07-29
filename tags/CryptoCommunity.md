@@ -1,4 +1,4 @@
 ---
-        layout: tag
-        tagkey: CryptoCommunity
-        ---
+layout: tag
+tagkey: CryptoCommunity
+---

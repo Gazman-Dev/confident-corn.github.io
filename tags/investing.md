@@ -1,4 +1,4 @@
 ---
-        layout: tag
-        tagkey: investing
-        ---
+layout: tag
+tagkey: investing
+---

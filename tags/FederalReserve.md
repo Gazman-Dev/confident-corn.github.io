@@ -1,4 +1,4 @@
 ---
-        layout: tag
-        tagkey: FederalReserve
-        ---
+layout: tag
+tagkey: FederalReserve
+---

@@ -1,4 +1,4 @@
 ---
-        layout: tag
-        tagkey: Fed
-        ---
+layout: tag
+tagkey: Fed
+---

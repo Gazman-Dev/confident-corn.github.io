@@ -1,4 +1,4 @@
 ---
-        layout: tag
-        tagkey: HealthcareJobs
-        ---
+layout: tag
+tagkey: HealthcareJobs
+---

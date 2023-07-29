@@ -1,4 +1,4 @@
 ---
-        layout: tag
-        tagkey: finance
-        ---
+layout: tag
+tagkey: finance
+---

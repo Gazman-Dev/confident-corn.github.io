@@ -1,4 +1,4 @@
 ---
-        layout: tag
-        tagkey: analysts
-        ---
+layout: tag
+tagkey: analysts
+---

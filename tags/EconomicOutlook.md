@@ -1,4 +1,4 @@
 ---
-        layout: tag
-        tagkey: EconomicOutlook
-        ---
+layout: tag
+tagkey: EconomicOutlook
+---

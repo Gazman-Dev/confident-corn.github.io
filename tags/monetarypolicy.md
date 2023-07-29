@@ -1,4 +1,4 @@
 ---
-        layout: tag
-        tagkey: monetarypolicy
-        ---
+layout: tag
+tagkey: monetarypolicy
+---

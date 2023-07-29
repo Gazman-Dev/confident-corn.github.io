@@ -1,4 +1,4 @@
 ---
-        layout: tag
-        tagkey: FedRateHike
-        ---
+layout: tag
+tagkey: FedRateHike
+---

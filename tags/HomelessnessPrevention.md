@@ -1,4 +1,4 @@
 ---
-        layout: tag
-        tagkey: HomelessnessPrevention
-        ---
+layout: tag
+tagkey: HomelessnessPrevention
+---

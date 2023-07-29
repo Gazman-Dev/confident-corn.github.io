@@ -1,4 +1,4 @@
 ---
-        layout: tag
-        tagkey: PlatformSolutions
-        ---
+layout: tag
+tagkey: PlatformSolutions
+---

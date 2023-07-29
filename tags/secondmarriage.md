@@ -1,4 +1,4 @@
 ---
-        layout: tag
-        tagkey: secondmarriage
-        ---
+layout: tag
+tagkey: secondmarriage
+---

@@ -1,4 +1,4 @@
 ---
-        layout: tag
-        tagkey: LosAngelesRealEstate
-        ---
+layout: tag
+tagkey: LosAngelesRealEstate
+---

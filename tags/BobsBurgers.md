@@ -1,4 +1,4 @@
 ---
-        layout: tag
-        tagkey: BobsBurgers
-        ---
+layout: tag
+tagkey: BobsBurgers
+---

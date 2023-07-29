@@ -1,4 +1,4 @@
 ---
-        layout: tag
-        tagkey: Ethereum
-        ---
+layout: tag
+tagkey: Ethereum
+---

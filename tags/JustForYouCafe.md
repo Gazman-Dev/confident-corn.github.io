@@ -1,4 +1,4 @@
 ---
-        layout: tag
-        tagkey: JustForYouCafe
-        ---
+layout: tag
+tagkey: JustForYouCafe
+---

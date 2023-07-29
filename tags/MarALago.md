@@ -1,4 +1,4 @@
 ---
-        layout: tag
-        tagkey: MarALago
-        ---
+layout: tag
+tagkey: MarALago
+---

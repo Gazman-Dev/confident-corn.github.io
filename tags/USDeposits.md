@@ -1,4 +1,4 @@
 ---
-        layout: tag
-        tagkey: USDeposits
-        ---
+layout: tag
+tagkey: USDeposits
+---

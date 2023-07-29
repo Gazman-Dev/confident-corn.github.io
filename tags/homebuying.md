@@ -1,4 +1,4 @@
 ---
-        layout: tag
-        tagkey: homebuying
-        ---
+layout: tag
+tagkey: homebuying
+---

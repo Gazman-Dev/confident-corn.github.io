@@ -1,4 +1,4 @@
 ---
-        layout: tag
-        tagkey: COVID19
-        ---
+layout: tag
+tagkey: COVID19
+---

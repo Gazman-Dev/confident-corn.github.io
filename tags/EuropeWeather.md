@@ -1,4 +1,4 @@
 ---
-        layout: tag
-        tagkey: EuropeWeather
-        ---
+layout: tag
+tagkey: EuropeWeather
+---

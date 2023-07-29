@@ -1,4 +1,4 @@
 ---
-        layout: tag
-        tagkey: manufacturing
-        ---
+layout: tag
+tagkey: manufacturing
+---

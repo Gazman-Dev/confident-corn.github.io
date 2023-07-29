@@ -1,4 +1,4 @@
 ---
-        layout: tag
-        tagkey: NursingCareer
-        ---
+layout: tag
+tagkey: NursingCareer
+---

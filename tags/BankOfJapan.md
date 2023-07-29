@@ -1,4 +1,4 @@
 ---
-        layout: tag
-        tagkey: BankOfJapan
-        ---
+layout: tag
+tagkey: BankOfJapan
+---

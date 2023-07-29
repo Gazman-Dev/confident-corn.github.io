@@ -1,4 +1,4 @@
 ---
-        layout: tag
-        tagkey: NaturalGasCrisis
-        ---
+layout: tag
+tagkey: NaturalGasCrisis
+---
