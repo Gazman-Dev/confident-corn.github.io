@@ -1,4 +1,4 @@
 ---
-        layout: tag
-        tagkey: USregulations
-        ---
+layout: tag
+tagkey: USregulations
+---
