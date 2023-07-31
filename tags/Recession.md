@@ -1,4 +1,4 @@
 ---
 layout: tag
-tagkey: Economy
+tagkey: Recession
 ---
