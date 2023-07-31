@@ -1,4 +1,4 @@
 ---
 layout: tag
-tagkey: Controversy
+tagkey: controversy
 ---
