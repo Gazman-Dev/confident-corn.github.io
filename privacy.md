@@ -1,12 +1,10 @@
 ---
 layout: page
-title: About
+title: Privacy Policy
 permalink: /privacy/
 ---
 
-# Privacy Policy
-
-Last updated: [Date]
+Last updated: 8/1/2023
 
 Gazman Dev LLC ("us", "we", or "our") operates the Confident Corn mobile application (the "Service").
 
