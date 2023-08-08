@@ -1,4 +1,4 @@
 ---
 layout: tag
-tagkey: inflation
+tagkey: usmarket
 ---
