@@ -21,7 +21,7 @@
 title: Confident Corn
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Welcome to our news website! Our AI-generated news articles use ChatGPT to provide you with up-to-date and accurate business and economic news, along with unique AI predictions for each piece. Our coverage is unbiased, as our articles are not written by humans, ensuring transparency and integrity in all our reporting. Stay informed and make smarter decisions with our reliable and innovative news platform.
+  Welcome to our news website! Our AI-generated news articles use ChatGPT to craft unique content based on trends, topics, and news from various sources on the web. While the inspiration is derived from real-world events, the articles themselves are original and not direct copies from any source. This ensures you receive up-to-date and accurate business and economic news, along with unique AI predictions for each piece. Our coverage is unbiased, as our articles are not influenced by human biases, ensuring transparency and integrity in all our reporting. Stay informed and make smarter decisions with our reliable and innovative news platform.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://confident-corn.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
