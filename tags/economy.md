@@ -1,4 +1,4 @@
 ---
 layout: tag
-tagkey: economy
+tagkey: Economy
 ---
