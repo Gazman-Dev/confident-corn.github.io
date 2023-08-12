@@ -1,0 +1,35 @@
+---
+layout: post
+title:  "The Struggles of Actors and Writers with Residual Payments in the Streaming Era"
+description: Actress Lisa Edelstein recently attended the Hollyshorts Film Festival, where she discussed her experience with low residual payments for her work on 'Girlfriends' Guide to Divorce.' She expressed her frustration with receiving only 97 cents for two episodes she wrote and starred in. Edelstein emphasized the need for fair compensation and urged the industry to take the concerns of writers and actors seriously.
+date:   2023-08-12 00:33:19 -0400
+image: '/assets/7706f806-2cc7-45c4-9d61-c17dbf1605f1.jpg'
+author: 'ellie'
+tags: ["entertainment"]
+---
+
+Actress Lisa Edelstein recently attended the Hollyshorts Film Festival, where she discussed her experience with low residual payments for her work on 'Girlfriends' Guide to Divorce.' She expressed her frustration with receiving only 97 cents for two episodes she wrote and starred in. Edelstein emphasized the need for fair compensation and urged the industry to take the concerns of writers and actors seriously. Fellow actor Danny Pino also echoed her sentiments and highlighted the importance of support for independent filmmakers during the strikes.
+
+Actor David Duchovny holds a picket sign with the phrase 'The residuals are out there' during the Hollywood strikes. Residuals are long-term payments negotiated by unions for those who worked on films and TV shows, for reruns and other airings after the initial release. The payment structure for residuals was developed in 1960. Actors and writers are traditionally paid each time a show runs on broadcast or cable TV or when someone buys a DVD or Blu-ray disc. Residual payments decline over time and are pegged to factors such as the length of the production, the size of a role, the production budget, and the distribution platform. While streaming companies technically pay residuals, the amounts and pay timelines are much smaller than what actors and writers received in the past.
+
+Some actors and writers receive only a few cents in residuals, while others, like the cast of 'Friends,' continue to make millions annually. Even modest residual payments can be essential for lower-tier performers. Streaming residuals are not tied to the popularity of the movie or show they are associated with, and most streaming services do not release specific viewership figures. The Screen Actors Guild-American Federation of Television and Radio Artists (SAG-AFTRA) asked studios to consider a comprehensive plan for actors to participate in streaming revenue during contract negotiations. SAG-AFTRA's residual proposals for lower budget productions were rejected by the Alliance of Motion Picture and Television Producers (AMPTP).
+
+The union sought improved residuals for the continued availability of movies and shows on subscription streaming services. Progress was made in negotiations on residuals for higher budget productions, but significant gaps remain between the two sides. The AMPTP proposed a 76% increase in residuals on overseas streaming video for high budget productions.
+
+The Writers Guild of America went on strike in May, expressing concerns about the unequal distribution of benefits in the streaming era. Median weekly writer-producer pay has decreased by 23% over the past decade. CEO compensation remains high, with top executives at Disney, Netflix, and Warner Bros. receiving millions of dollars. The WGA has made demands for higher compensation, increased pension contributions, and regulation over the use of artificial intelligence.
+
+The use of mini rooms, where writers are hired before production for minimum pay, has been criticized for limiting opportunities and stability. Streaming platforms have led to shorter television seasons, resulting in less work and income for writers. Residuals for streaming shows are lower compared to network TV shows, causing financial challenges for writers. Writers are seeking fair compensation and stability in their careers. Guild members argue that there are fewer opportunities for advancement in the field.
+
+The strike has affected the production of several TV series and movies, with potential long-term consequences for the industry. The WGA's strike proposals are estimated to cost studios $429 million per year, but the continued strike could have a higher economic impact on California. Failure to meet writers' demands could lead to a decline in artistic quality and fewer writers being able to sustain a living in the industry.
+
+
+# ChatGPT AI Asks and Answers
+## How has the rise of streaming platforms affected residual payments for actors and writers?
+The rise of streaming platforms has significantly affected residual payments for actors and writers. In the past, actors and writers were paid each time their show aired on broadcast or cable TV or when someone purchased a DVD or Blu-ray. However, with the advent of streaming services, residual payments have decreased significantly. Streaming companies technically pay residuals, but the amounts and pay timelines are much smaller than what actors and writers used to receive.
+
+## What is the impact of low residual payments on lower-tier performers?
+The impact of low residual payments is particularly harsh on lower-tier performers. These performers often rely on residual payments to supplement their income and make a living. With the decline in residual payments from streaming platforms, lower-tier performers are struggling financially. Even modest residual payments can be essential for them, but they often receive only a few cents or even less. This financial strain can limit their opportunities and stability in their careers.
+
+## How are the writers' demands in the strike related to the use of artificial intelligence in the industry?
+The writers' demands in the strike are closely related to the use of artificial intelligence (AI) in the industry. One of the demands is regulation over the use of AI. With the advancements in technology, AI is being used in various aspects of content creation, including writing. This automation of tasks traditionally done by writers poses a threat to their jobs and livelihoods. By demanding regulation, writers are advocating for their rights and seeking to ensure that AI is used responsibly and doesn't undermine their creative contributions.
+
