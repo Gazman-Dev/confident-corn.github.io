@@ -1,0 +1,53 @@
+---
+layout: post
+title:  "CNET Faces Controversy Over Deletion of Thousands of Articles"
+description: CNET, a popular tech news website, has recently made headlines with its decision to delete thousands of its old articles. This move comes as CNET faces challenges, including the controversy over its AI-written articles and layoffs.
+date:   2023-08-14 02:49:14 -0400
+image: '/assets/a0029663-ae17-445b-b89c-b844bfe6f8a0.jpg'
+author: 'tanner'
+tags: ["technology"]
+---
+
+CNET, a popular tech news website, has recently made headlines with its decision to delete thousands of its old articles. This move comes as CNET faces challenges, including the controversy over its AI-written articles and layoffs. While the deletion process began with small batches of articles, it dramatically increased in the second half of July. As a result, thousands of articles have been removed in recent weeks.
+
+CNET has confirmed the content removal but has not disclosed the exact number of deleted articles. The company claims that content deletion is an industry-wide best practice for large sites primarily driven by SEO (Search Engine Optimization) traffic. According to CNET, this practice, known as 'content pruning,' sends a signal to Google that the site is fresh and relevant.
+
+However, critics argue that CNET's extreme content pruning is misguided. They point out that Google has never advised people to delete content simply because it is old. The causes of link rot, which include website shutdowns, server migrations, shifts to new content management systems, and content pruning for SEO, have also been discussed.
+
+The transitory nature of online content is a broader issue that this article explores. Archiving and preserving online content have become crucial due to the risk of link rot. Link rot refers to broken links that occur when web pages are no longer accessible. With the increasing frequency of content deletion, archives can be compromised over time, particularly due to copyright issues.
+
+The controversy surrounding CNET's article deletion has received significant attention from the tech community. Gizmodo, another prominent tech news outlet, published an article exposing CNET for deleting thousands of pages to ``game Google Search.'' Gizmodo's report further confirms CNET's decision to delete articles and highlights how CNET decided which pages to redirect, repurpose, or remove based on factors such as page views, backlink profiles, and time since the last update.
+
+CNET's belief that content deprecation signals to Google that they are fresh, relevant, and worthy of higher search results has also been scrutinized. Google's Danny Sullivan clarified that there is no penalty for having old content on a website and that older content can still be helpful. In the past, Google advised removing low-quality content to improve rankings for higher quality content. It is important to note that there is often an overlap between old content and low-quality content on a website.
+
+Prominent Googlers, including John Mueller and Gary Illyes, have advised improving content rather than deleting it. They argue that deleting, improving, and consolidating content can help improve overall content quality and reputation on a topic. Mueller also provided additional commentary on content pruning on Mastodon, emphasizing the importance of a thoughtful approach.
+
+The impact of removing images from webpages on search engine optimization (SEO) has also been discussed. WordPress, one of the most popular content management systems, provides a way to remove images from a webpage. However, this action can have various implications for SEO, including changes in search appearance and the importance of image alt tags.
+
+While CNET's article deletion has sparked debate, it is essential to understand how search engines, particularly Google, rank search results. Google uses web crawlers to scan and index pages, and these pages are rated based on their authority and usefulness. The search engine employs a complex algorithm with over 210 known factors to determine the rankings. Higher rankings indicate that a page is more relevant and authoritative.
+
+Google's algorithm also incorporates Natural Language Processing, a branch of artificial intelligence, to better understand search queries. The company regularly updates its ranking algorithm with minor and major updates. Minor updates occur daily, while major updates take place every 3-6 months. These updates aim to improve search results and show users better and more accurate information.
+
+Google relies on webmaster and user signals to update its ranking algorithm. The search engine penalizes websites that attempt to manipulate the algorithm for better rankings. The factors influencing rankings include on-page content, off-page factors, and website authority. Pages with high bounce rates and slow loading speeds are considered subpar. To help webmasters optimize their pages, Google provides tools like PageSpeed Insights and Search Console.
+
+Improving ranking factors can help websites appear higher in search results and increase their organic visibility. However, it is important to note that Google is constantly updating its algorithm to combat SEO tactics, promoting websites with high-quality content and a good user experience.
+
+The problem of link rot, which poses a threat to the accessibility of information online, has been addressed by the release of a WordPress and Drupal plugin called Amber by Harvard's Berkman Center. Amber helps websites keep linked content accessible by storing copies of web pages. When linked pages go down, Amber serves cached alternatives, preventing link rot and ensuring the availability of information.
+
+Link rot is a concern because it results in broken links, often due to human or technological errors. It can occur when a site migrates to a new CMS or link structure or when a site goes offline completely. Academics are particularly worried about link rot as it affects citations and references to previously published work. Wikipedia has over 130,000 entries linking to pages that no longer exist, and a Harvard study found that 49 percent of hyperlinks in Supreme Court decisions don't work.
+
+Solutions to the link rot problem include the Internet Archive Wayback Machine, Perma, and Amber. These services help preserve online content and ensure its availability even if the original source is no longer accessible.
+
+In conclusion, CNET's decision to delete thousands of old articles has sparked controversy regarding the transitory nature of online content and the battle for SEO ranking. While CNET believes that content pruning is essential for signaling freshness and relevance to Google, critics argue that improving content quality is a better approach. The impact of removing images from webpages on SEO and the broader issue of link rot have also been explored. Academics and organizations like Harvard's Berkman Center are working on solutions to preserve online content and combat the problem of link rot. In this era of evolving digital landscapes, the battle for SEO ranking and the preservation of information are ongoing challenges that require thoughtful consideration and innovative solutions.
+
+
+# ChatGPT AI Asks and Answers
+## How does CNET's decision to delete old articles impact its overall reputation?
+CNET's decision to delete old articles has significant implications for its overall reputation. While their intention may be to signal freshness and relevance to search engines like Google, deleting a large number of articles raises questions about the integrity and credibility of their content. Readers may question the reliability and longevity of the information provided by CNET if they are constantly deleting their old articles. This could erode trust in the brand and lead to a decline in readership and audience engagement.
+
+## What are the implications of content pruning for SEO and search engine rankings?
+Content pruning, as practiced by CNET, can have both positive and negative implications for SEO and search engine rankings. On the one hand, removing outdated or low-quality content can improve the overall quality and relevance of a website, potentially leading to higher rankings in search results. By signaling to search engines that the site is regularly updated and focuses on providing current and valuable content, CNET may see an improvement in their SEO performance. On the other hand, content pruning can also have negative effects. If important and valuable content is deleted, it may result in a loss of organic traffic and backlinks, which are important ranking factors. Additionally, sudden and large-scale content deletion can disrupt the overall website structure and lead to broken internal links, negatively impacting user experience and SEO performance.
+
+## What are the potential consequences of link rot for academia and the accessibility of information?
+The potential consequences of link rot for academia and the accessibility of information are significant. Link rot poses a threat to the integrity and reliability of academic research, as citations and references to previously published work may become broken and inaccessible. This could undermine the credibility and replicability of studies, affecting the progress of scientific knowledge. Furthermore, link rot can impede the accessibility of information for researchers, students, and the general public. When web pages are no longer accessible, valuable resources and knowledge can be lost. This can hinder the dissemination of information and hinder the advancement of learning and scholarship. Therefore, it is crucial for academia to address the issue of link rot and implement solutions like archiving and preservation to ensure the availability and accessibility of information for future generations.
+
