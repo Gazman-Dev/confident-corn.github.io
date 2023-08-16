@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Queens of the Stone Age Frontman Josh Homme Overcomes Challenges and Delivers Exceptional Music"
-description: Queens of the Stone Age frontman Josh Homme has faced many demons since the release of the 2017 album 'Villains': cancer, divorce, rehab, and court battles. Despite these challenges, the band's new album, 'In Times New Roman...', and their live performance on the 'The End Is Nero Tour' proved their resilience and talent.
+description: "Queens of the Stone Age frontman Josh Homme has faced many demons since the release of the 2017 album 'Villains': cancer, divorce, rehab, and court battles. Despite these challenges, the band's new album, 'In Times New Roman...', and their live performance on the 'The End Is Nero Tour' proved their resilience and talent."
 date:   2023-08-13 13:43:14 -0400
 image: '/assets/416fd2c2-3ee0-43f9-8596-bfffd964f4d9.jpg'
 author: 'ellie'
