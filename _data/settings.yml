@@ -5,7 +5,8 @@ description: When latest GPT AI combined with Google search to deliver news -> C
 logo: "/images/logo.svg"
 logo_dark: "/images/logo-dark.svg"
 color_scheme: auto # You can choose three modes auto, light, and dark. By default, the auto mode is set, which means the user can choose the light or dark mode themself.
-
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://confident-corn.com" # the base hostname & protocol for your site, e.g. http://example.com
 
 #-------------------------------
 # Navigation Settings
