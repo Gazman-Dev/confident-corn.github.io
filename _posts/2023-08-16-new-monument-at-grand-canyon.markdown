@@ -1,0 +1,41 @@
+---
+layout: post
+title:  "President Biden Creates New National Monument at Grand Canyon"
+description: "President Biden establishes Baaj Nwaavjo I'tah Kukveni, a new national monument at the Grand Canyon, to protect culturally significant sites and advance Native American issues."
+date:   2023-08-16 01:16:50 -0400
+image: '/assets/d29cdbda-b0d8-4f9f-ba0d-2dd6fb82258f.jpg'
+author: 'larry'
+tags: ["world news"]
+---
+
+President Joe Biden earlier this week created a new national monument buffering parts of Grand Canyon National Park in Arizona. The monument, called Baaj Nwaavjo I'tah Kukveni, covers 917,618 acres across three distinct sites north and south of the natural wonder.
+
+The creation of Baaj Nwaavjo I'tah Kukveni reflects the administration's commitment to Native American issues and the landback movement, aiming to protect culturally and spiritually significant sites for the Indigenous peoples of the Southwest. Home to wildlife like bison, elk, mule deer, desert bighorn sheep, and rare cactus species, the protected area encompasses plateaus, canyons, Colorado River tributaries, and countless culturally and spiritually significant sites.
+
+Interior Secretary Deb Haaland visited the Grand Canyon's South Rim with members of the Havasupai Tribe, witnessing the deep connection between the Havasupai people and the land. Haaland believes the monument designation is justified and honors tribal sovereignty and advances conservation initiatives.
+
+The Havasupai Tribe were driven out of their homelands when the Grand Canyon National Park was established. The establishment of Baaj Nwaavjo I'tah Kukveni – Ancestral Footprints of the Grand Canyon National Monument serves as a recognition of past injustices and ensures the preservation of the Grand Canyon.
+
+President Biden signed the proclamation establishing the new protections at Red Butte, a sacred site called Wii'i Gdwiisa by the Havasupai. While the monument is slightly smaller than the tribal leaders had sought, it still includes thousands of cultural and sacred sites in the Southwest. State and private lands are excluded from the monument boundaries.
+
+The designation of Baaj Nwaavjo I'tah Kukveni protects sacred sites and critical waterways in the region. New mining claims will not be allowed in the monument, but some uranium mining may still be permitted. This is President Biden's second national monument preserving land important to Native Americans, following the establishment of the Emmett Till and Mamie Till-Mobley National Monument.
+
+The monument has received support from the Grand Canyon Tribal Coalition and is seen as a significant step towards addressing past injustices and promoting the preservation of the Grand Canyon. President Biden has previously established two other national monuments and the administration will allocate $44 million for climate resilience projects in national parks.
+
+In addition to the establishment of Baaj Nwaavjo I'tah Kukveni, President Biden also plans to provide national monument protections for the Avi Kwa Ame region in southern Nevada. These protections will benefit wildlife, sacred Indigenous sites, and rural communities, and contribute to the conservation of Nevada's wildlife and sporting heritage. The landscapes of Avi Kwa Ame hold sacred Indigenous sites and important migration pathways for wildlife, and the designation will provide new opportunities for responsible recreation and rural economic development.
+
+The National Wildlife Federation applauds President Biden and Secretary Haaland for listening to the coalition of Indigenous leaders, ranchers, hunters, and conservationists, and urges the administration to work closely with local and Indigenous leaders in implementing collaborative management plans. Conserving and restoring wildlife habitat in Avi Kwa Ame will further promote the health and vitality of Nevada's desert bighorn sheep.
+
+President Biden's actions in establishing Baaj Nwaavjo I'tah Kukveni and planning for the designation of the Avi Kwa Ame region demonstrate his commitment to conservation and the recognition of the interconnected struggles of all oppressed Peoples. These initiatives bring us closer to a future where Black reparations and Indigenous LANDBACK co-exist, with BIPOC collective liberation at the core. This recognizes that only when Mother Earth is well, can we be well, and that we belong to the land because we are the land.
+
+
+# ChatGPT AI Asks and Answers
+## What is the significance of the Baaj Nwaavjo I'tah Kukveni monument in relation to Native American issues and the landback movement?
+The significance of the Baaj Nwaavjo I'tah Kukveni monument in relation to Native American issues and the landback movement is profound. This monument reflects the administration's commitment to Native American issues and the landback movement by protecting culturally and spiritually significant sites for the Indigenous peoples of the Southwest. It serves as a recognition of past injustices, particularly towards the Havasupai Tribe, who were driven out of their ancestral lands when the Grand Canyon National Park was established. By establishing this monument, President Biden is taking a step towards addressing these past injustices and ensuring the preservation of the Grand Canyon. It signifies the importance of honoring tribal sovereignty, advancing conservation initiatives, and protecting sacred Indigenous sites.
+
+## What steps is President Biden taking to address past injustices and promote the preservation of the Grand Canyon?
+President Biden is taking several steps to address past injustices and promote the preservation of the Grand Canyon. The creation of the Baaj Nwaavjo I'tah Kukveni monument is one such step, as it recognizes the historical displacement of the Havasupai Tribe and preserves their cultural and sacred sites. Additionally, President Biden plans to provide national monument protections for the Avi Kwa Ame region in southern Nevada, which will further contribute to the preservation of wildlife, sacred Indigenous sites, and rural communities. Furthermore, the administration's allocation of $44 million for climate resilience projects in national parks demonstrates a commitment to protecting and preserving the environment. Through these actions, President Biden is working towards rectifying past injustices and ensuring the long-term preservation of the Grand Canyon and its surrounding areas.
+
+## How will the establishment of the Avi Kwa Ame region as a national monument benefit wildlife, sacred Indigenous sites, and rural communities in southern Nevada?
+The establishment of the Avi Kwa Ame region as a national monument will have several benefits for wildlife, sacred Indigenous sites, and rural communities in southern Nevada. The region holds sacred Indigenous sites and important migration pathways for wildlife. By designating it as a national monument, these sites and migration pathways will be protected, ensuring their preservation for future generations. The designation will also provide new opportunities for responsible recreation, allowing visitors to connect with and appreciate the region's natural beauty. Additionally, rural communities in southern Nevada will benefit from the economic development opportunities that come with responsible tourism. This designation will not only promote the conservation of Nevada's wildlife and sporting heritage but also contribute to the overall well-being of the region's wildlife, sacred sites, and rural communities.
+
