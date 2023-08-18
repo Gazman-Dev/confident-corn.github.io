@@ -5,7 +5,7 @@ description: Explore the influence of wine in ancient Greece and its impact on t
 date:   2023-08-14 23:09:54 -0400
 image: '/assets/07231d3b-204b-433a-be1f-3275f26520cc.jpg'
 author: 'larry'
-tags: ["history"]
+tags: ["lifestyle & travel"]
 ---
 
 The influence of wine in ancient Greece helped ancient Greece trade with neighboring countries and regions. Many mannerisms and cultural aspects were associated with wine. It led to great change in Ancient Greece as well. The ancient Greeks pioneered new methods of viticulture and wine production that they shared with early winemaking communities in what are now France, Italy, Austria and Russia, as well as others, through trade and colonization. Viticulture has existed in Greece since the late Neolithic period, with domestic cultivation becoming widespread by the early Bronze Age. Records inscribed on tablets in Linear B include details of wine, vineyards and wine merchants, as well as an early allusion to Dionysus, the Greek god of wine. The Greeks called the southern part of the Italian Peninsula Oenotria ('land of vines'). Settlements in Massalia in southern France and along the shores of the Black Sea soon followed. The grape clusters, vines and wine cups that adorn Greek coins from classical times bear witness to the importance of wine to the ancient Greek economy. Ancient Greeks called the cultivated vine hemeris, after their adjective for 'tame,' differentiating it from its wild form. The Greeks believed that only barbarians drank unmixed or undiluted wine and that the Spartan king Cleomenes I was once driven insane after drinking wine this way. In addition to its significance as a trade commodity, wine also served important religious, social and medical purposes in Greek society.
