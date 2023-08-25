@@ -1,0 +1,37 @@
+---
+layout: post
+title:  "Google's New Feature Aims to Solve CAPTCHA Problem"
+description: "Google is testing a feature for Chrome that will save users from having to complete a CAPTCHA puzzle. The auto-verify feature allows a site to identify a user as a real person when they've passed a CAPTCHA test in the past."
+date:   2023-08-25 00:38:08 -0400
+image: '/assets/74461111-c5d4-4f9a-ab21-43ae111fa472.jpg'
+author: 'larry'
+tags: ["technology"]
+---
+
+CAPTCHA is a security measure used to differentiate between robots and humans on the internet. Google's new feature in Chrome aims to make it easier for users to access websites without having to solve CAPTCHA puzzles.
+
+Google is testing a feature for Chrome that will save users from having to complete a CAPTCHA puzzle. The auto-verify feature allows a site to identify a user as a real person when they've passed a CAPTCHA test in the past. Other sites can access this record of verification and allow the user to bypass CAPTCHA even if they haven't passed a test on that specific site. The feature is currently in testing and can be accessed through Chrome Canary.
+
+Understanding and Implementing Changes to Web Intents in Android 12
+
+Michael is a software engineer at DoorDash since October of 2021, working on the consumer android app. Part of being a modern-day Android developer is keeping up with Google's latest update that can have outsized effects and consequences on application's performance, especially when new changes affect how older app versions function. Google releases two types of changes that impact developers: API changes and behavior changes. API changes tend to be obvious, triggering compilation errors or lint warnings. Behavior changes, on the other hand, are not so obvious, particularly when Google changes or adds constraints around an established feature, such as a background execution.
+
+In Android 12, there are changes to web intents that developers need to accommodate for. Deep links help provide a seamless experience between the DoorDash website and the mobile application. Starting in Android 12, a generic web intent resolves to an activity in the app only if it is approved for the specific domain contained in that web intent. Google made this change to encourage the use of Android App Links for HTTP and HTTPS links. Developers need to update intent filters and create a digital link between the application and the domain using a digital asset links file. There are three options for creating the digital asset link file: manually, using Android Studio's App Link Assistant, or using Google's statement list generator tool. The assetlinks.json file needs to be deployed to the host under the .well_known directory. Verify the changes on Android using the ADB command. Utilize android:autoVerify="true" in the Android Manifest within intent filters that respond to intents with http links. Generate an assetlinks.json digital asset file to create a link between the host and the application. Work with the infrastructure team to deploy the assetlinks.json file to the host(s).
+
+Publishing article events for Azure Active Directory Seamless single sign-on
+
+Set up your Azure AD Connect server. Use a supported Azure AD Connect topology. Set up domain administrator credentials. Enable modern authentication. Use the latest versions of Microsoft 365 clients. Enable Seamless SSO through Azure AD Connect. Verify that Seamless SSO is enabled. Roll out Seamless SSO to users. Modify user intranet zone settings. Test Seamless SSO. Roll over keys.
+
+CAPTCHA created as a way of differentiating genuine users from bad bots. CAPTCHAs were initially successful but bots quickly learned to bypass them. reCAPTCHA developed as a human verification system in 2007. reCAPTCHA v3 introduced in 2018, operates in the background. CAPTCHAs can hurt the user experience and waste customers' time. CAPTCHAs have a lower conversion rate and can be easily bypassed by modern bots. Better alternatives to CAPTCHA include using biometrics, implementing multi-factor authentication, and using ad fraud solutions like Anura.
+
+
+# ChatGPT AI Asks and Answers
+## How will Google's auto-verify feature in Chrome impact the use of CAPTCHA puzzles?
+Google's auto-verify feature in Chrome will greatly impact the use of CAPTCHA puzzles. With the auto-verify feature, users who have previously passed a CAPTCHA test can be identified as real people, allowing them to bypass CAPTCHA on different sites. This means that users no longer need to waste time and effort solving CAPTCHA puzzles repeatedly. As a result, the use of CAPTCHA puzzles may decrease significantly, and website owners may need to find alternative methods to verify genuine users and prevent automated bots.
+
+## What are some of the changes to web intents in Android 12 and how does it affect developers?
+In Android 12, there are changes to web intents that developers need to consider. One significant change is that a generic web intent now resolves to an activity in the app only if it is approved for the specific domain contained in that web intent. This change encourages the use of Android App Links for HTTP and HTTPS links. Developers need to update their intent filters and create a digital link between the application and the domain using a digital asset links file. This change has an impact on how deep links work and requires developers to make the necessary updates to ensure a seamless experience between websites and mobile applications.
+
+## What are some better alternatives to CAPTCHA for verifying genuine users?
+While CAPTCHA has been a widely used method to verify genuine users, there are better alternatives available. One alternative is the use of biometrics, such as fingerprint or facial recognition, to authenticate users. Biometrics provide a more seamless and user-friendly verification process as users don't need to solve puzzles or enter complex codes. Another alternative is to implement multi-factor authentication, which combines multiple verification methods, such as a password and a one-time verification code sent to a user's mobile device. This adds an extra layer of security and makes it harder for automated bots to bypass. Additionally, using ad fraud solutions like Anura can help detect and prevent automated bot traffic, ensuring that only genuine users are accessing a website or application.
+
