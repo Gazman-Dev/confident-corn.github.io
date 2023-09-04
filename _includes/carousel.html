@@ -1,0 +1,122 @@
+<div class="scrolling-wrapper">
+    {% for item in page.carousel_sources %}
+    <div class="scrolling-card">
+
+        <div class="domain-info" id="domain_info_{{ forloop.index }}">
+            {% if item.icon_path %}
+            <img src="{{ site.baseurl }}{{ item.icon_path }}" alt="{{ item.domain }}"
+                 class="scrolling-icon icon-to-check" id="icon_{{ forloop.index }}">
+            {% endif %}
+
+            <a href="{{ item.link }}" target="_blank" rel="noopener noreferrer" class="domain-link">
+                <p class="domain-text">{{ item.domain | remove: 'www.' }}</p>
+            </a>
+        </div>
+        {% if item.image_path %}
+        <a href="{{ item.link }}" target="_blank" rel="noopener noreferrer" class="scrolling-link">
+            <img src="{{ site.baseurl }}{{ item.image_path }}" alt="{{ item.title }}"
+                 class="scrolling-image image-to-check" id="image_{{ forloop.index }}">
+        </a>
+        {% endif %}
+
+        <div class="scrolling-info">
+            <h5 class="scrolling-title">{{ item.title }}</h5>
+        </div>
+    </div>
+    {% endfor %}
+</div>
+
+<style>
+    /* ...existing CSS... */
+
+    .scrolling-wrapper {
+        display: flex;
+        flex-direction: row;
+        overflow-x: scroll;
+        overflow-y: hidden;
+        white-space: nowrap;
+        margin-bottom: 20px; /* Add margin to the bottom */
+    }
+
+    /* Hide scrollbar for Chrome, Safari and Opera */
+    .scrolling-wrapper::-webkit-scrollbar {
+        display: none;
+    }
+
+    /* Hide scrollbar for Firefox */
+    .scrolling-wrapper {
+        scrollbar-width: none;
+    }
+
+    /* Hide scrollbar for IE and Edge */
+    .scrolling-wrapper {
+        -ms-overflow-style: none;
+    }
+
+    .scrolling-card {
+        display: inline-flex;
+        flex-direction: column;
+        justify-content: flex-end;
+        margin-right: 15px;
+        width: 375px;
+    }
+
+    .scrolling-image {
+        height: 225px;
+        width: auto;
+        object-fit: cover;
+    }
+
+    .scrolling-icon {
+        width: 24px; /* or any other size you prefer */
+        height: 24px; /* same as width for a 1:1 aspect ratio */
+        object-fit: contain; /* or 'contain' if you don't want to crop the image */
+        margin-right: 8px; /* Add some space to the right of the icon */
+    }
+
+    .scrolling-info {
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-end;
+    }
+
+    .scrolling-title {
+        white-space: normal;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        max-width: 375px;
+        height: 90px;
+        display: -webkit-box;
+        -webkit-line-clamp: 3;
+        -webkit-box-orient: vertical;
+    }
+
+    .domain-info {
+        display: flex;
+        align-items: center; /* Vertically center the items */
+        justify-content: center; /* Horizontally center the items */
+        margin: 0;
+        padding: 0;
+    }
+
+    .domain-text {
+        margin-left: 8px;
+        display: flex;
+        align-items: center; /* vertically align items if they are of different heights */
+    }
+
+</style>
+
+<script>
+    console.log('Script running');
+    document.addEventListener('DOMContentLoaded', function () {
+        const elementsToCheck = document.querySelectorAll('.image-to-check, .icon-to-check');
+        elementsToCheck.forEach((element) => {
+            element.addEventListener('error', function () {
+                this.style.display = 'none';
+            });
+        });
+    });
+
+
+</script>
