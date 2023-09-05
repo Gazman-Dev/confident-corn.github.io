@@ -1,70 +1,48 @@
 ---
 layout: post
-title:  "Latest News and Updates from the Stock Market"
-description: "In the fast-paced world of finance, there are always companies grabbing the headlines. Today, we bring you the latest news and updates from the stock market. Let's dive in!"
-date:   2023-09-04 19:37:34 -0400
-image: '/assets/f37c17e7-fb03-4e28-8978-8347f80ea912/combined.jpg'
-author: 'betty'
-sources: https://www.cnbc.com/2023/08/30/stocks-making-the-biggest-moves-midday-hpq-box-bfb-podd.html https://ca.finance.yahoo.com/quote/HPQ230901P00026000?p=HPQ230901P00026000 https://finance.yahoo.com/quote/HPQ230901P00029500?p=HPQ230901P00029500 https://finance.yahoo.com/quote/PVH/ https://finance.yahoo.com/quote/BFB230915C00060000/ https://www.omnipod.com/what-is-omnipod/omnipod-5 https://simplywall.st/stocks/us/capital-goods/nasdaq-flnc/fluence-energy/news/fluence-energy-incs-nasdaqflnc-path-to-profitability https://www.reuters.com/technology/apple-host-fall-event-sept-12-2023-08-29/ https://ts2.space/en/biggest-calls-on-wall-street-barclays-reiterates-coinbase-as-underweight/ https://www.ampereanalysis.com/insight/apac-becomes-netflixs-largest-region-for-subscription-growth https://www.tipranks.com/news/article/microsoft-stocks-nasdaqmsft-long-term-investment-case-multiple-growth-catalysts https://investor.aligntech.com/news-releases/news-release-details/align-technology-reaches-1-million-invisalign-teenagers/
-tags: ["business & finance"]
+title:  "Deion Sanders Opens Up About Son's Grudge and Shedeur's Impressive Performance"
+description: "Deion Sanders discusses his son's grudge and sheds light on Shedeur's commitment and performance against TCU."
+date:   2023-09-04 22:17:39 -0400
+image: '/assets/97dea9d8-f767-4362-ae47-d1861d450949/combined.jpg'
+author: 'sammy'
+sources: https://bleacherreport.com/articles/10088261-deion-sanders-says-son-shedeur-remembered-tcu-oc-snubbing-him-ahead-of-colorado-win https://www.tallahassee.com/story/sports/college/fsu/football/2019/07/28/qb-shedeur-sanders-son-deion-sanders-kendal-briles-quarterback-willie-taggart-fsu-florida-state/1851658001/ https://www.tallahassee.com/story/sports/college/fsu/football/2019/07/28/qb-shedeur-sanders-son-deion-sanders-kendal-briles-quarterback-willie-taggart-fsu-florida-state/1851658001/ https://www.espn.com/college-football/story/_/id/30268621/espn-300-qb-shedeur-sanders-joins-dad-deion-sanders-jackson-state https://sports.yahoo.com/tcu-hires-arkansas-kendal-briles-as-offensive-coordinator-221136844.html https://www.espn.com/college-football/story/_/id/38314569/colorado-tops-no-17-tcu-deion-sanders-1st-game-coach
+tags: ["sports"]
 carousel_sources:
-- domain: www.cnbc.com
-  icon_path: /assets/f37c17e7-fb03-4e28-8978-8347f80ea912/source1_icon.jpg
-  image_path: /assets/f37c17e7-fb03-4e28-8978-8347f80ea912/source1.jpg
-  link: https://www.cnbc.com/2023/08/30/stocks-making-the-biggest-moves-midday-hpq-box-bfb-podd.html
-  title: 'Stocks making the biggest moves midday: HPQ, BOX, BF.B, PODD'
-- domain: simplywall.st
-  icon_path: /assets/f37c17e7-fb03-4e28-8978-8347f80ea912/source2_icon.jpg
-  image_path: /assets/f37c17e7-fb03-4e28-8978-8347f80ea912/source2.jpg
-  link: https://simplywall.st/stocks/us/capital-goods/nasdaq-flnc/fluence-energy/news/fluence-energy-incs-nasdaqflnc-path-to-profitability
-  title: Fluence Energy, Inc.'s (NASDAQ:FLNC) Path To Profitability - Simply Wall
-    St News
-- domain: www.reuters.com
-  icon_path: /assets/f37c17e7-fb03-4e28-8978-8347f80ea912/source3_icon.jpg
-  image_path: /assets/f37c17e7-fb03-4e28-8978-8347f80ea912/source3.jpg
-  link: https://www.reuters.com/technology/apple-host-fall-event-sept-12-2023-08-29/
-  title: Apple to host fall event on Sept 12, analysts expect new iPhones | Reuters
+- domain: bleacherreport.com
+  icon_path: /assets/97dea9d8-f767-4362-ae47-d1861d450949/source1_icon.jpg
+  image_path: /assets/97dea9d8-f767-4362-ae47-d1861d450949/source1.jpg
+  link: https://bleacherreport.com/articles/10088261-deion-sanders-says-son-shedeur-remembered-tcu-oc-snubbing-him-ahead-of-colorado-win
+  title: Deion Sanders Says Son Shedeur Remembered TCU OC Snubbing Him Ahead of Colorado
+    Win | News, Scores, Highlights, Stats, and Rumors | Bleacher Report
+- domain: www.tallahassee.com
+  icon_path: /assets/97dea9d8-f767-4362-ae47-d1861d450949/source2_icon.jpg
+  image_path: /assets/97dea9d8-f767-4362-ae47-d1861d450949/source2.jpg
+  link: https://www.tallahassee.com/story/sports/college/fsu/football/2019/07/28/qb-shedeur-sanders-son-deion-sanders-kendal-briles-quarterback-willie-taggart-fsu-florida-state/1851658001/
+  title: QB Shedeur Sanders, son of Deion Sanders, impressed by Kendal Briles
+- domain: www.tallahassee.com
+  icon_path: /assets/97dea9d8-f767-4362-ae47-d1861d450949/source3_icon.jpg
+  image_path: /assets/97dea9d8-f767-4362-ae47-d1861d450949/source3.jpg
+  link: https://www.tallahassee.com/story/sports/college/fsu/football/2019/07/28/qb-shedeur-sanders-son-deion-sanders-kendal-briles-quarterback-willie-taggart-fsu-florida-state/1851658001/
+  title: QB Shedeur Sanders, son of Deion Sanders, impressed by Kendal Briles
 
 ---
 
-## HP's Rollercoaster Ride
+Florida State hosted Cedar Hill (Texas) Trinity Christian three-star quarterback Shedeur Sanders for a visit. Sanders is a FSU legacy and the son of Deion Sanders. FSU offered Sanders immediately after Willie Taggart took over. Sanders worked out with FSU offensive coordinator Kendal Briles and was impressed with the offense.
 
-HP, one of the leading technology companies, has been facing some challenges in the PC market. The company's revenue has declined year over year for five consecutive quarters. Sales of personal systems and printing have also been on a downward trajectory for several quarters. Despite these difficulties, HP remains a key player in the industry, with a loyal customer base.
+ESPN 300 quarterback Shedeur Sanders flipped his commitment from FAU to Jackson State, where his father, Deion Sanders, is the head coach. Shedeur is the No. 60 overall recruit in the Class of 2021 and was originally committed to FAU in July. Once his father was hired by Jackson State in September, it seemed as though it was only a matter of time before Shedeur made the switch. Shedeur is now the highest-ranked prospect Jackson State has ever had and the only ESPN 300 prospect to commit to the HBCU. The decision to switch to his father's new school wasn't a difficult one. The two have already had a coach-quarterback relationship, as Deion had been Shedeur's offensive coordinator in high school. The past three seasons, Shedeur Sanders has thrown for 8,925 yards, 123 touchdowns, and 19 interceptions. He ran for 198 yards and 22 touchdowns during that time while helping his team to two state championships.
 
-## PVH Corp.: A Fashion Powerhouse
+Jackson State also got a commitment from three-star athlete Herman Smith on Friday; he had previously been committed to San Diego State. The 5-foot-11, 190-pound prospect from Lincoln High School in Lincoln, California, is likely a defensive back at the next level. The program has added five total commitments since Deion Sanders was hired, including Shedeur, Smith, and three-star defensive tackle Braezhon Ross.
 
-PVH Corp. is making waves in the fashion world. The company designs and markets branded apparel in over 40 countries. Its key fashion categories include men's dress shirts, ties, sportswear, underwear, and jeans. PVH's leading designer brands, Calvin Klein and Tommy Hilfiger, contribute to the majority of its revenue. With a strong presence in e-commerce and physical stores, PVH continues to dominate the fashion market.
-
-## Brown-Forman Misses Expectations
-
-Brown-Forman, the maker of popular spirits like Jack Daniel's, experienced a setback in its first fiscal quarter of 2024. The company missed Wall Street expectations, mainly due to higher input costs and sluggish demand for its pricier whiskeys. Despite this, Brown-Forman remains a prominent player in the spirits industry, and analysts believe it has the potential to bounce back in the coming quarters.
-
-## Innovative Insulet
-
-Insulet, a leading healthcare company, has been making headlines with its latest developments. The CEO reported buying shares of the company, signifying confidence in its future growth. Additionally, Insulet recently launched a new insulin delivery service, offering a convenient and effective solution for patients. With these advancements, Insulet continues to revolutionize the healthcare industry.
-
-## Fluence Energy: Powering the Future
-
-Fluence Energy is a key player in the energy storage and renewables sector. The company provides energy storage products and services, along with AI-enabled digital applications. While Fluence Energy has reported a loss in the financial year, analysts predict a turnaround in the near future. With no debt on its balance sheet and a strong growth rate, Fluence Energy is poised to drive the transition to clean energy.
-
-## Apple's Highly Anticipated Event
-
-Tech giant Apple has announced an exciting fall event on September 12th. The event, to be hosted at the Steve Jobs Theater in Cupertino, California, is expected to unveil new iPhones and smartwatches with innovative features. Apple aims to entice shoppers with its latest offerings, especially after a slight decline in iPhone sales in the previous quarter. Tech enthusiasts worldwide are eagerly awaiting this event.
-
-## Align Technology: Transforming Smiles
-
-Align Technology, the manufacturer of Invisalign clear aligners, has reached a significant milestone. The company has treated 1 million teenage patients with its revolutionary orthodontic solution. Align Technology's Invisalign aligners are preferred by teenagers due to their metal-free and removable nature. With a strong focus on providing treatment to children with cleft lip and cleft palate, Align Technology is making a positive impact on the lives of many.
-
-These are just a few of the many exciting developments happening in the stock market. As the industry continues to evolve, we can expect more groundbreaking news and opportunities in the future. Stay tuned for more updates!
+Shedeur Sanders sets a Colorado record with 510 passing yards. Colorado wins season-opening game against No. 17 TCU. Shedeur Sanders throws 4 touchdowns with no interceptions. Shedeur Sanders has 4 different teammates with over 100 receiving yards. Deion Sanders mocks critics of his son's starting position. Colorado wins first road game since 2021. Colorado snaps streak of 24 consecutive losses as underdogs of 21 points or more. Deion Sanders leads Colorado to best road win against a ranked opponent since 2002. Deion Sanders praises the belief and performance of his players. Travis Hunter shines with over 100 receiving yards and an interception in the same game. Travis Hunter plays 129 total snaps and excels on offense and defense. Dylan Edwards has a standout performance with 135 receiving yards and 3 touchdowns. Colorado records over 400 yards of offense for the first time in 26 games. Offensive standouts include Jimmy Horn Jr. and Xavier Weaver. Colorado dominates time of possession with 34 minutes, 33 seconds. TCU coach Sonny Dykes criticizes his team's defensive performance. Deion Sanders overcomes foot issues and leads the team on the field. Deion Sanders expresses gratitude to his assistant coaches and athletic director.
 
 
 # ChatGPT AI Asks and Answers
-## How is HP planning to overcome the challenges in the PC market and increase its revenue?
-HP is planning to overcome the challenges in the PC market and increase its revenue by focusing on innovation and diversification. The company is investing in research and development to create new and improved products that will attract customers. HP is also expanding its product portfolio to include emerging markets such as gaming laptops and high-performance workstations. Additionally, HP is strengthening its partnerships with retailers and e-commerce platforms to enhance its distribution channels. By staying ahead of technological trends and providing a comprehensive range of products, HP aims to regain market share and drive revenue growth.
+## How did Shedeur Sanders' commitment to Jackson State impact the program?
+Shedeur Sanders' commitment to Jackson State has had a significant impact on the program. As the highest-ranked prospect in Jackson State's history, his decision has brought national attention and recognition to the program. This has resulted in increased visibility and credibility for the team, attracting more talented recruits and improving the overall competitiveness of the program. Shedeur's commitment has also boosted fan support and excitement, leading to increased ticket sales and revenue for the university. Additionally, his presence on the team has elevated the level of play and performance, as he brings with him exceptional skills and leadership qualities.
 
-## What strategies is PVH Corp. implementing to maintain its dominance in the fashion market?
-PVH Corp. is implementing several strategies to maintain its dominance in the fashion market. Firstly, the company is leveraging its strong designer brands, Calvin Klein and Tommy Hilfiger, to create a competitive advantage. PVH is continuously investing in product innovation and brand building to stay relevant and appeal to consumers. Secondly, PVH is focusing on omni-channel retailing, combining both physical stores and e-commerce platforms. This allows the company to reach a wide range of customers and provide a seamless shopping experience. Additionally, PVH is expanding its global presence by entering new markets and forming strategic partnerships. By staying connected to consumer preferences, investing in brand building, and expanding its reach, PVH Corp. aims to maintain its dominant position in the fashion market.
+## What factors influenced Shedeur Sanders' decision to switch his commitment?
+Several factors influenced Shedeur Sanders' decision to switch his commitment from FAU to Jackson State. Firstly, the opportunity to play under his father, Deion Sanders, who is not only his father but also his former offensive coordinator, was a major factor. Shedeur already has a strong coach-quarterback relationship with his father, and the chance to have him as the head coach at the collegiate level was a significant draw. Secondly, Shedeur's desire to be part of something historic and make a meaningful impact motivated his decision. By committing to an HBCU like Jackson State, Shedeur is not only making a statement about his own beliefs and values, but he is also helping to create opportunities for other talented Black athletes. Lastly, the prospect of playing in a highly competitive environment and the potential for personal growth and development as a player were important considerations. Shedeur saw Jackson State as a program on the rise, and he wanted to be part of the journey to success.
 
-## What steps is Insulet taking to revolutionize the healthcare industry and improve patient care?
-Insulet is taking several steps to revolutionize the healthcare industry and improve patient care. One of the key steps is the development and launch of its new insulin delivery service. This service provides patients with a convenient and effective solution for insulin administration, reducing the burden of daily injections. Insulet is also investing in research and development to enhance its existing products and develop new technologies. The company is focused on creating innovative solutions that improve patient outcomes and quality of life. In addition, Insulet is collaborating with healthcare providers, payers, and other stakeholders to create a holistic approach to diabetes management. By integrating technology, improving patient experience, and working collaboratively, Insulet aims to transform the healthcare industry and improve patient care.
+## How has Deion Sanders' presence as the head coach of Jackson State affected the team's performance and morale?
+Deion Sanders' presence as the head coach of Jackson State has had a transformative effect on the team's performance and morale. His reputation as a legendary NFL player and his experience as a coach and mentor have brought a new level of credibility and respect to the program. Under Deion's leadership, the team has experienced a significant improvement in performance and has become a force to be reckoned with in their conference. His emphasis on discipline, hard work, and accountability has instilled a winning mentality among the players, leading to increased confidence and morale. Deion's hands-on approach and personalized coaching style have also resulted in the development of players' skills and overall team cohesion. The positive atmosphere and sense of unity created by Deion have contributed to a strong team culture, where players feel motivated and supported to give their best on and off the field.
 
