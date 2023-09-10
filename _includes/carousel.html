@@ -16,8 +16,12 @@
             </div>
             {% if item.image_path %}
             <a href="{{ item.link }}" target="_blank" rel="noopener noreferrer" class="scrolling-link">
-                <img src="{{ site.baseurl }}{{ item.image_path }}" alt="{{ item.title }}"
-                     class="scrolling-image">
+                <img src="/images/cool.jpg"
+                     data-src="{{ site.baseurl }}{{ item.image_path }}"
+                     alt="{{ item.title }}"
+                     class="scrolling-image"
+                     loading="lazy"
+                     onerror="this.onerror=null; this.src='cool.jpg';"> <!-- Fallback Image -->
             </a>
             {% endif %}
 
@@ -182,4 +186,12 @@
 
     // Check when the window is resized
     window.addEventListener('resize', checkSlideButtons);
+</script>
+
+<script>
+    // Lazy loading the actual image
+    document.addEventListener("DOMContentLoaded", function () {
+        const img = document.querySelector(".scrolling-image");
+        img.src = img.getAttribute("data-src");
+    });
 </script>
