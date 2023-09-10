@@ -51,7 +51,8 @@ Sourcegraph communicated with customers whose license keys may have been accesse
 ## What lessons can other organizations learn from this breach?
 There are several key lessons that other organizations can learn from the Sourcegraph breach. Firstly, it highlights the importance of implementing strong access controls and authentication protocols to prevent unauthorized access. Organizations should also regularly review and update their security measures to stay ahead of evolving threats. Additionally, it emphasizes the need for robust monitoring systems that can detect and respond to suspicious activity in real-time. Conducting regular security audits and penetration tests can help identify vulnerabilities before they can be exploited. Furthermore, Sourcegraph's proactive communication with customers serves as a lesson in transparency and maintaining trust during a breach. Other organizations should prioritize open and timely communication with their customers to keep them informed and address any concerns. Lastly, this breach underscores the importance of ongoing employee training and awareness programs to ensure that all staff members are equipped with the knowledge and skills to identify and respond to potential security threats.
 
-
+<details>
+  <summary>Full summary</summary>
 I. Introduction
 
 A recent data breach at Sourcegraph, a code search and navigation platform, has raised concerns about the security of user information. The breach occurred after an engineer accidentally leaked an admin access token, allowing unauthorized access to the platform's admin dashboard.
@@ -89,3 +90,4 @@ IX. Conclusion
 With Sourcegraph's swift response and commitment to addressing the breach, users can trust that their data is in safe hands. However, it is essential for all users to remain vigilant and report any suspicious activity to Sourcegraph's security team.
 
 In conclusion, the Sourcegraph data breach reinforces the importance of proactive security measures and ongoing vigilance in the face of evolving cyber threats. By taking immediate action and implementing necessary mitigations, Sourcegraph has demonstrated its commitment to protecting user data and upholding the trust of its user base.
+</details>

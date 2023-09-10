@@ -51,7 +51,8 @@ Converting Hanahana Beauty to a B Corporation offers several benefits. Firstly, 
 ## How has Hello Alice supported the growth and success of Hanahana Beauty?
 Hello Alice has played a crucial role in supporting the growth and success of Hanahana Beauty. As a platform that supports small businesses, Hello Alice has provided Hanahana Beauty with resources, mentorship, and opportunities for funding. Through Hello Alice's $10,000 Grant and Mentorship opportunity, Hanahana Beauty has been able to further their goals and expand their impact. This support has helped them overcome the challenges commonly faced by small businesses, such as limited funding and lack of access to networks and resources. Hello Alice's involvement has not only boosted Hanahana Beauty's visibility but also provided them with valuable advice and guidance from experienced entrepreneurs. Overall, the partnership between Hello Alice and Hanahana Beauty has been instrumental in propelling the brand's growth and success, allowing them to make a greater difference in empowering women and promoting sustainability.
 
-
+<details>
+  <summary>Full summary</summary>
 Recently, she visited Ghana to connect with her family and check in with her shea butter producers.
 
 Hanahana Beauty is known for its ethically-sourced shea butter from the Katariga Women's Shea Cooperative. Combined with all-natural oils, their products bring out the true beauty in your skin. The benefits of using ethically-sourced shea butter and all-natural oils are well-known.
@@ -63,3 +64,4 @@ Global Mamas dedicates itself to providing sustainable livelihoods for women thr
 Abena Boamah-Acheampong is converting Hanahana Beauty to a B Corporation. B Corporations are businesses that meet high standards of verified social and environmental performance, public transparency, and legal accountability to balance profit and purpose. Hanahana Beauty is dedicated to providing products made from high-quality shea butter and has created the Hanahana Circle of Care to support healthcare and education for women in Ghana. Becoming a B Corporation has many benefits, including access to a supportive network and resources for growth. Despite the challenges faced by small businesses, including funding, Hanahana Beauty has seen remarkable growth and expansion of events. Hello Alice, a platform that supports small businesses, including Hanahana Beauty, has been instrumental in their success. Hanahana Beauty has big plans for using the $10,000 Grant and Mentorship opportunity provided by Hello Alice and is excited about their future goals.
 
 Abena Boamah's journey is not just about business. It is about empowering women, promoting sustainability, and celebrating Ghana's rich culture. Through her dedication to ethically-sourced shea butter and her commitment to supporting marginalized communities, Abena has created a brand that brings beauty and empowerment to people's lives.
+</details>

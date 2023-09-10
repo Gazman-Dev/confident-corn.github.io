@@ -37,7 +37,8 @@ The current projections for interest rate hikes and inflation in the coming year
 ## How does the Federal Reserve use interest rate manipulation to control inflation and stimulate the economy?
 The Federal Reserve uses interest rate manipulation as a tool to control inflation and stimulate the economy. When inflation is high, the Federal Reserve may raise interest rates to reduce spending and dampen inflationary pressures. Higher interest rates make borrowing more expensive, which discourages businesses and consumers from taking on additional debt. This decreased borrowing and spending help slow down economic activity, which in turn can help reduce inflation. On the other hand, when the economy is sluggish and inflation is low, the Federal Reserve may lower interest rates to encourage borrowing and spending. Lower interest rates make it cheaper to borrow money, which stimulates investment and consumption, driving economic growth. By adjusting interest rates, the Federal Reserve aims to maintain price stability and promote sustainable economic growth.
 
-
+<details>
+  <summary>Full summary</summary>
 Federal Reserve Governor Christopher Waller recently discussed the impact of the recent round of strong economic data on future interest rate hikes and controlling inflation. In his remarks, Waller highlighted the better-than-expected job growth and lower inflation indicated by recent data points. However, he emphasized the need for caution regarding inflation and rate hikes.
 
 Waller also mentioned that the Federal Reserve is considering a 50 basis-point hike at the next meeting in December or the one after that. He stated that the rates will continue to rise and stay high until inflation gets closer to the target. Waller's remarks were consistent with the sentiment expressed by Fed Chair Jerome Powell and other colleagues, who believe that interest-rate increases are far from over, although the pace may slow soon.
@@ -55,3 +56,4 @@ In December, inflation in the United States cooled to 6.5%, down from the previo
 Despite these positive developments, there are still concerns about certain countries experiencing high inflation rates that are causing their economies to break down. The establishment of the Federal Reserve was motivated by the need to keep prices stable. One of the ways the Federal Reserve controls inflation is through interest rate manipulation, raising interest rates to combat high inflation and lowering them to stimulate the economy.
 
 Overall, Governor Waller's remarks show that the Federal Reserve is closely monitoring economic data, especially in relation to inflation and interest rates. While there have been positive signs of improvement, caution is still warranted, and further actions may be necessary to control inflation and ensure economic stability.
+</details>

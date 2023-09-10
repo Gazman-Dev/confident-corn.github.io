@@ -66,7 +66,8 @@ To make the most of their experience at the D23 Expo, attendees should plan thei
 ## What can fans expect in terms of announcements and news about their favorite franchises during the D23 Expo?
 Fans can expect a treasure trove of announcements and news about their favorite franchises during the D23 Expo. Disney has traditionally used this platform to make major announcements and reveal exciting updates. For example, attendees might learn about new Disney theme park attractions, upcoming Disney+ series, or the latest developments in the Star Wars universe. The Expo provides a unique opportunity for fans to be the first to hear about these announcements and to experience the excitement firsthand. It's a chance to be part of the conversation and to see the future of their beloved franchises unfold right before their eyes.
 
-
+<details>
+  <summary>Full summary</summary>
 Disney's D23 Expo is a fan convention for all things Disney. It is the largest Disney fan event in the world, showcasing news about Disney, Pixar, Star Wars, and Marvel. The next D23 Expo will take place on August 9-11, 2024, at the Anaheim Convention Center in Anaheim, California. The event will be rebranded and expanded to become D23 The Ultimate Disney Fan Event.
 
 The D23 Expo will offer an entire week of events, including a D23 member event on August 8th. The biggest presentations will move to the Honda Center, providing a larger space for exciting announcements. The event will feature exhibits, panels, and presentations from Disney insiders, giving fans behind-the-scenes information and news about their favorite franchises.
@@ -80,3 +81,4 @@ Tickets for the D23 Expo will go on sale in spring 2023. Both D23 Gold and Gener
 To make the most of the D23 Expo, attendees are advised to prioritize their must-see events, explore the exhibitor floor, and arrive early. Comfortable shoes, water bottles, and hand sanitizers are recommended, as well as having a Sharpie and paper for autographs. Bringing a poster tube can also be helpful for safely transporting any prints or posters obtained during the event. Managing expectations and having fun are also key to enjoying the D23 Expo experience.
 
 The D23 Expo is a must-attend event for Disney fans of all ages. It offers a unique opportunity to connect with fellow Disney enthusiasts, learn about the latest news and developments, and immerse oneself in the magic of Disney. Stay tuned for more updates and announcements about D23 The Ultimate Disney Fan Event, and mark your calendars for August 9-11, 2024!
+</details>
