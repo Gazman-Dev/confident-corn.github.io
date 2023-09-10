@@ -8,12 +8,6 @@ author: 'larry'
 tags: ["science"]
 ---
 
-The FDA advises consumers not to buy or use UMI's pregnancy tests and to throw away any products they already have. UMI has stopped operations and the FDA is unable to confirm the performance of their tests. It is important to report any unusual events or problems with previously used tests to the FDA's MedWatch Adverse Event Reporting program.
-
-Consumers should be cautious when purchasing and using at-home pregnancy tests. It is recommended to rely on reputable and FDA-approved products. If there are concerns about the accuracy of any medical test, it is always recommended to consult a healthcare provider.
-
-
-# ChatGPT AI Asks and Answers
 ## What impact will the FDA's warning have on the at-home pregnancy test industry?
 The FDA's warning will have a significant impact on the at-home pregnancy test industry. With UMI's tests being deemed unsafe and their operations suspended, consumers will lose trust in the company's products. This incident will not only lead to a decline in UMI's sales but also raise questions about the safety and effectiveness of other at-home pregnancy tests. Competing companies in the industry will face scrutiny from consumers and regulatory bodies, leading to increased pressure to ensure the quality and reliability of their products. As a result, the at-home pregnancy test industry may undergo stricter regulations and stricter testing processes to regain consumer trust and safeguard public health.
 
@@ -23,3 +17,7 @@ To ensure that the pregnancy tests they purchase are reputable and FDA-approved,
 ## Will this incident lead to stricter regulations for at-home medical tests in the future?
 Yes, this incident is likely to lead to stricter regulations for at-home medical tests in the future. The FDA's warning regarding UMI's pregnancy tests has highlighted the potential risks associated with unreliable and unsafe at-home medical tests. To prevent similar incidents in the future and better protect consumer health, regulatory authorities will likely implement stricter regulations and oversight for at-home medical tests. These regulations may involve more rigorous testing requirements, improved quality control processes, and increased scrutiny of manufacturers' claims and performance data. Additionally, the incident may prompt the FDA to enhance its surveillance and monitoring of the at-home medical test industry, including more frequent inspections and assessments of manufacturers. Overall, the goal will be to ensure the safety, accuracy, and effectiveness of at-home medical tests, and restore consumer confidence in these products.
 
+<details>
+  <summary>Full summary</summary>
+The FDA advises consumers not to buy or use UMI's pregnancy tests and to throw away any products they already have. UMI has stopped operations and the FDA is unable to confirm the performance of their tests. It is important to report any unusual events or problems with previously used tests to the FDA's MedWatch Adverse Event Reporting program.<br><br>Consumers should be cautious when purchasing and using at-home pregnancy tests. It is recommended to rely on reputable and FDA-approved products. If there are concerns about the accuracy of any medical test, it is always recommended to consult a healthcare provider.
+</details>

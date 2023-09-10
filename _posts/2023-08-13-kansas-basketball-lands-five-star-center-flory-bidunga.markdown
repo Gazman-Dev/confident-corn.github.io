@@ -8,24 +8,6 @@ author: 'sammy'
 tags: ["sports"]
 ---
 
-Kansas basketball has made a huge recruiting splash with the commitment of Flory Bidunga, a talented five-star center. Bidunga, who stands at 6'8" and weighs 215 pounds, has chosen to play for the Jayhawks in the Class of 2024.
-
-Bidunga brings an impressive resume and skills to the team. He was named the 2022-23 Indiana Gatorade Player of the Year and has averaged 17.7 points, 8.1 rebounds, and 3.4 blocks per game during his grassroots season.
-
-The Jayhawks faced stiff competition for Bidunga's commitment. He had 16 offers, including schools like Auburn, Michigan, and Arizona State. Despite initial buzz favoring Duke, Auburn became the popular prediction when Duke seemed to fade. However, Kansas was able to overcome both Duke and Auburn to secure Bidunga's commitment.
-
-Kansas coach Bill Self is known for his love of big men, and Bidunga fits the mold perfectly. In fact, Self compared Bidunga to former Jayhawk and NBA star Joel Embiid. Bidunga's length, strength, and explosiveness make him a force on both ends of the court.
-
-Bidunga's commitment puts the Jayhawks into the Top 20 for recruiting classes in 2024. It is considered the highest ranked Kansas recruit since Josh Jackson.
-
-The addition of Bidunga to the Jayhawks' roster has received widespread praise. Media members have praised Kansas for landing such a highly ranked player, and the team's aggressive approach in the transfer portal has been recognized as a key strength.
-
-With the addition of Bidunga, Kansas has high expectations for the upcoming NCAA college basketball season. Coach Bill Self aims for his third national championship at the university and believes that the incoming transfer class will be the key strength of the team.
-
-Overall, the commitment of Flory Bidunga is a major win for the Jayhawks and solidifies their status as a top program in college basketball.
-
-
-# ChatGPT AI Asks and Answers
 ## How will Flory Bidunga's commitment impact the Kansas basketball team's performance in the upcoming NCAA college basketball season?
 Flory Bidunga's commitment will have a significant impact on the performance of the Kansas basketball team in the upcoming NCAA college basketball season. As a talented five-star center, Bidunga brings an impressive resume and a diverse skill set to the team. His scoring ability, rebounding prowess, and shot-blocking skills will greatly enhance the Jayhawks' offensive and defensive capabilities. Bidunga's length, strength, and explosiveness make him a force to be reckoned with on both ends of the court. His presence in the paint will provide a solid defensive anchor for the team and create opportunities for his teammates on offense. Additionally, Bidunga's commitment will boost team morale and create a sense of competitiveness within the roster, ultimately raising the overall performance level of the Kansas basketball team.
 
@@ -35,3 +17,7 @@ Flory Bidunga chose Kansas over other top programs for several reasons. Firstly,
 ## What are the expectations for Flory Bidunga's performance in his freshman year at Kansas, and how does he compare to other highly ranked recruits?
 The expectations for Flory Bidunga's performance in his freshman year at Kansas are high. As a highly ranked recruit and a five-star center, there is anticipation that Bidunga will make an immediate impact for the Jayhawks. His scoring ability, rebounding prowess, and shot-blocking skills are expected to contribute significantly to the team's success. While there may be an adjustment period as Bidunga transitions to the college level, his talent and skill set should allow him to excel. Compared to other highly ranked recruits, Bidunga stands out due to his versatility and his ability to impact the game on both ends of the court. His length, strength, and explosiveness make him a formidable presence in the paint, and his offensive skills make him a threat from inside and outside. With his work ethic and determination, Bidunga has the potential to be one of the standout freshmen in college basketball and contribute to the Jayhawks' quest for a national championship.
 
+<details>
+  <summary>Full summary</summary>
+Kansas basketball has made a huge recruiting splash with the commitment of Flory Bidunga, a talented five-star center. Bidunga, who stands at 6'8" and weighs 215 pounds, has chosen to play for the Jayhawks in the Class of 2024.<br><br>Bidunga brings an impressive resume and skills to the team. He was named the 2022-23 Indiana Gatorade Player of the Year and has averaged 17.7 points, 8.1 rebounds, and 3.4 blocks per game during his grassroots season.<br><br>The Jayhawks faced stiff competition for Bidunga's commitment. He had 16 offers, including schools like Auburn, Michigan, and Arizona State. Despite initial buzz favoring Duke, Auburn became the popular prediction when Duke seemed to fade. However, Kansas was able to overcome both Duke and Auburn to secure Bidunga's commitment.<br><br>Kansas coach Bill Self is known for his love of big men, and Bidunga fits the mold perfectly. In fact, Self compared Bidunga to former Jayhawk and NBA star Joel Embiid. Bidunga's length, strength, and explosiveness make him a force on both ends of the court.<br><br>Bidunga's commitment puts the Jayhawks into the Top 20 for recruiting classes in 2024. It is considered the highest ranked Kansas recruit since Josh Jackson.<br><br>The addition of Bidunga to the Jayhawks' roster has received widespread praise. Media members have praised Kansas for landing such a highly ranked player, and the team's aggressive approach in the transfer portal has been recognized as a key strength.<br><br>With the addition of Bidunga, Kansas has high expectations for the upcoming NCAA college basketball season. Coach Bill Self aims for his third national championship at the university and believes that the incoming transfer class will be the key strength of the team.<br><br>Overall, the commitment of Flory Bidunga is a major win for the Jayhawks and solidifies their status as a top program in college basketball.
+</details>

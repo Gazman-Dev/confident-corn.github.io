@@ -23,29 +23,8 @@ carousel_sources:
   image_path: /assets/73345935-e70e-4450-9ee5-b3c3773361d1/source3.jpg
   link: https://uk.news.yahoo.com/gen-v-release-date-cast-plot-amazon-the-boys-spin-off-series-091046910.html
   title: 'Gen V: Release date, cast, plot and more'
-
 ---
 
-# Exciting New Releases on Prime Video in September
-
-Prime Video is gearing up to deliver an array of thrilling new titles this September. From spinoff series to inspiring films, there's something for everyone. Let's take a closer look at the exciting lineup.
-
-## The Boys spinoff Gen V Expands the Universe
-
-The highly anticipated spinoff series, Gen V, takes viewers into the world of superheroes-in-training. Set in a superhero-only college, this gripping series explores the challenges and dangers faced by young heroes. Developed by Craig Rosenberg, Eric Kripke, and Evan Goldberg, Gen V promises to push the limits with its raunchy, bloody, and shocking moments. With a star-studded cast including Jaz Sinclair, Chance Perdomo, Lizzie Broadway, Maddie Phillips, Derek Luh, London Thor, Patrick Schwarzenegger, Sean Patrick Thomas, and Clancy Brown, Gen V is sure to captivate audiences.
-
-## Cassandro: A Film about Triumph and Resilience
-
-Gael García Bernal stars in Cassandro, a heartwarming film that follows the journey of a gay amateur wrestler who rises to stardom. Director Marie Losier beautifully captures the story of Cassandro, showcasing his triumphs, struggles, and his unwavering spirit. Through intimate footage filmed in dressing rooms and wrestling rings, Losier brings the audience closer to Cassandro's world. This inspiring film delves into Cassandro's personal life, his experiences of abuse and addiction, and his spiritual rituals for coping with pain. Prepare to be moved by Cassandro's resilience and determination.
-
-## The Wheel of Time Season Two: A Journey Continues
-
-Get ready for the second season of The Wheel of Time, the epic fantasy series based on Robert Jordan's beloved books. Following the adventures of a group of young friends, season two takes them into uncharted territories filled with new and old threats. The captivating performances of the cast, led by Rosamund Pike as Moiraine Damodred, bring these rich characters to life. With the addition of new cast members and the promise of a darker tone, The Wheel of Time season two is set to be even more captivating than the first.
-
-These are just a few highlights from Prime Video's expansive lineup in September. From the suspenseful Gen V to the inspiring Cassandro and the epic continuation of The Wheel of Time, there's something for everyone. Stay tuned for more exciting releases and make sure to catch these must-watch titles on Prime Video.
-
-
-# ChatGPT AI Asks and Answers
 ## How does the spinoff series Gen V expand the universe of The Boys?
 The spinoff series Gen V expands the universe of The Boys by diving deeper into the world of superheroes and exploring the journey of young heroes-in-training. It takes place in a superhero-only college, providing a unique perspective on the challenges and dangers faced by these characters. The series pushes the limits with its raunchy, bloody, and shocking moments, expanding the boundaries of the original series. With a star-studded cast and the promise of captivating storytelling, Gen V offers a fresh and exciting expansion of The Boys universe.
 
@@ -55,3 +34,7 @@ The film Cassandro explores themes of triumph and resilience. It tells the inspi
 ## What can viewers expect from the second season of The Wheel of Time?
 Viewers can expect an exciting continuation of the epic fantasy series, The Wheel of Time, in its second season. Building upon the adventures of the young friends introduced in the first season, the second season takes them into uncharted territories filled with new and old threats. The captivating performances of the cast, led by Rosamund Pike as Moiraine Damodred, bring the rich characters to life. With the addition of new cast members and a promise of a darker tone, the second season of The Wheel of Time dives even deeper into the expansive world of Robert Jordan's beloved books. Fans can anticipate more captivating storytelling, thrilling action, and surprising twists as the journey continues.
 
+<details>
+  <summary>Full summary</summary>
+# Exciting New Releases on Prime Video in September<br><br>Prime Video is gearing up to deliver an array of thrilling new titles this September. From spinoff series to inspiring films, there's something for everyone. Let's take a closer look at the exciting lineup.<br><br>## The Boys spinoff Gen V Expands the Universe<br><br>The highly anticipated spinoff series, Gen V, takes viewers into the world of superheroes-in-training. Set in a superhero-only college, this gripping series explores the challenges and dangers faced by young heroes. Developed by Craig Rosenberg, Eric Kripke, and Evan Goldberg, Gen V promises to push the limits with its raunchy, bloody, and shocking moments. With a star-studded cast including Jaz Sinclair, Chance Perdomo, Lizzie Broadway, Maddie Phillips, Derek Luh, London Thor, Patrick Schwarzenegger, Sean Patrick Thomas, and Clancy Brown, Gen V is sure to captivate audiences.<br><br>## Cassandro: A Film about Triumph and Resilience<br><br>Gael García Bernal stars in Cassandro, a heartwarming film that follows the journey of a gay amateur wrestler who rises to stardom. Director Marie Losier beautifully captures the story of Cassandro, showcasing his triumphs, struggles, and his unwavering spirit. Through intimate footage filmed in dressing rooms and wrestling rings, Losier brings the audience closer to Cassandro's world. This inspiring film delves into Cassandro's personal life, his experiences of abuse and addiction, and his spiritual rituals for coping with pain. Prepare to be moved by Cassandro's resilience and determination.<br><br>## The Wheel of Time Season Two: A Journey Continues<br><br>Get ready for the second season of The Wheel of Time, the epic fantasy series based on Robert Jordan's beloved books. Following the adventures of a group of young friends, season two takes them into uncharted territories filled with new and old threats. The captivating performances of the cast, led by Rosamund Pike as Moiraine Damodred, bring these rich characters to life. With the addition of new cast members and the promise of a darker tone, The Wheel of Time season two is set to be even more captivating than the first.<br><br>These are just a few highlights from Prime Video's expansive lineup in September. From the suspenseful Gen V to the inspiring Cassandro and the epic continuation of The Wheel of Time, there's something for everyone. Stay tuned for more exciting releases and make sure to catch these must-watch titles on Prime Video.
+</details>

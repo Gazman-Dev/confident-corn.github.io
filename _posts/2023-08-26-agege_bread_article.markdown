@@ -8,72 +8,6 @@ author: 'larry'
 tags: ["food & drink"]
 ---
 
-I. Introduction
-
-Growing up with my Dad's love for bread
-
-II. Personal Connection to Agege Bread
-
-The absence of Agege bread in our household
-
-III. Agege Bread's Cultural Significance
-
-The unique qualities and uses of Agege bread
-
-IV. The Journey of Agege Bread
-
-Remembering my Dad's love for bread
-
-Visiting Nigeria and experiencing the culture and cuisine
-
-A Story from My Father about His Historical Narration on the Journey of Agege Bread from Nigeria to Cameroon
-
-Transportation of Agege bread from Nigeria to Cameroon by 'Man No Rest'
-
-Transfer of Agege bread at Ekok village in Cameroon
-
-Transportation of Agege bread to Mamfe, Kumba, and other cities in the Southwest Region of Cameroon
-
-High demand for Agege bread leading to the construction of an Agege bread bakery in Kumba
-
-Commercial production and distribution of Agege bread in Kumba
-
-Identification of Agege bread as Kumba bread by loyal customers
-
-The branding of Kumba bread as a food with deep socio-cultural heritage
-
-V. The Unique Qualities of Agege Bread
-
-Agege bread is a century-old sweet tasting bread popular with the Hausa people in Nigeria.
-
-Traditional Agege bread is not sold as sliced bread.
-
-Agege is a district in the Ikeja Division of Lagos State, Nigeria.
-
-VI. Recipes and Culinary Uses of Agege Bread
-
-The ingredients for making sweet Nigerian Agege bread are: 6 cups all-purpose flour, 2 packages of active dry yeast, ½ cup of white sugar, 2½ cups of warm water, 3 tablespoons of softened butter, and 1 tablespoon of salt.
-
-The directions for making sweet Nigerian Agege bread are: 1. Dissolve yeast and sugar in warm water. 2. Stir in butter, salt, and two cups of flour. 3. Stir in the remaining flour gradually. 4. Knead the dough until smooth and elastic. 5. Let the dough rise until doubled in volume. 6. Deflate the dough and shape it into loaves. 7. Let the loaves rise until doubled in volume. 8. Bake the loaves until golden brown.
-
-An Agege bread breakfast sandwich recipe includes: 4 large eggs, 1 medium tomato, 1 small zucchini, 1 small onion, ½ cup chopped green pepper, ¼ teaspoon salt, ½ teaspoon red pepper, and 1 tablespoon butter.
-
-The directions for making an Agege bread breakfast sandwich are: 1. Beat the eggs and add the remaining ingredients except butter. 2. Melt butter in a skillet and pour the egg mixture into the skillet. 3. Cook the omelet until puffed and lightly browned. 4. Loosen the omelet from the skillet and place it between slices of Agege bread.
-
-VII. Nigeria's Economy and Food Consumption
-
-Nigeria is the most populous country in Africa. Nigeria has the largest economy by GDP in Africa. Agriculture is important to Nigeria's economy and daily lives. Nigeria is a net importer of food and agricultural products. Bread, semolina, pasta, and other wheat flour-based products are staples in Nigeria. Nigeria has a large population of youth. Nigeria is Africa's biggest oil exporter. Nigeria has the largest natural gas reserves in Africa. Nigeria accounts for nearly 20% of continental GDP. Nigeria accounts for about 47% of West Africa's population. Nigeria faces developmental challenges such as reducing dependency on oil, addressing infrastructure, and governance issues. Farming sector employs about 70% of Nigeria's labor force. Nigeria's small farms produce 80% of the total food. Conflicts and climate events affect agriculture in Nigeria. Nigeria's population is projected to reach 392 million by 2050. Nigeria is a member of the World Trade Organization (WTO) but employs trade-restrictive measures. Nigeria has over 30 million hectares of farmland under cultivation. Nigeria depends on local farms for food. Demand for wheat and wheat flour-based products is increasing in Nigeria. Nigeria's wheat production is inadequate to meet demand. Nigeria imports wheat valued at about $1.5 billion and $1.7 billion in 2017 and 2018, respectively. Nigeria's bakery product market is expected to grow. Nigeria has a large market for bread consumption. Nigeria's key supplier of bread and bakery is the UK. Nigeria's key importer of bread and bakery is Thailand. Average export price for bread and bakery in Nigeria is $2,449 per tonne. Average import price for bread and bakery in Nigeria is $1,952 per tonne. Nigeria has a massive market for bread with a consumption of 7.2 million loaves per day. Sugar bread is the No. 1 bakery product in Nigeria. Nigeria's artisan bakeries dominate the market. Middlemen and re-sellers play a role in bread distribution in Nigeria.
-
-VIII. Challenges and Future of Nigeria's Agriculture
-
-The word 'swallow' originated from the Anambra dialect. The word for swallow foods originated in West Africa. The cassava plant is native to South America. Cassava was introduced to West Africa during the Colonial period. Garri did not become popular in Nigeria until the 19th century. Garri is pre-prepared and sold in grocery stores across Nigeria. Eba is one of the most popular Nigerian swallows.
-
-IX. Bread Market in Nigeria
-
-X. Conclusion
-
-
-# ChatGPT AI Asks and Answers
 ## How has the commercial production and distribution of Agege bread in Kumba affected the local economy?
 The commercial production and distribution of Agege bread in Kumba has had a significant impact on the local economy. Firstly, it has provided employment opportunities for the local population, both in the bakery itself and in supporting industries such as transportation and packaging. This has helped to reduce unemployment and improve the standard of living in the area. Additionally, the increased demand for Agege bread has led to an increase in the demand for wheat, which has benefited wheat farmers in Nigeria. They have been able to sell their wheat at higher prices, resulting in increased income and investment in their farms. This has helped to boost the agricultural sector and contribute to overall economic growth in the country. Finally, the commercial production and distribution of Agege bread has also created opportunities for small businesses and entrepreneurs. Many people have started their own Agege bread stalls or shops, which has stimulated local entrepreneurship and contributed to the growth of the informal sector. Overall, the commercial production and distribution of Agege bread in Kumba has had a positive impact on the local economy by creating employment, boosting the agricultural sector, and stimulating entrepreneurship.
 
@@ -83,3 +17,7 @@ The high demand for Agege bread has had a significant impact on the availability
 ## What role do middlemen and re-sellers play in the distribution of bread in Nigeria, and how does it affect consumers?
 Middlemen and re-sellers play a crucial role in the distribution of bread in Nigeria, including Agege bread. They act as intermediaries between the bakery and the consumer, ensuring that the bread reaches its intended market. Middlemen and re-sellers are responsible for transporting the bread from the bakery to various distribution points, such as local markets and supermarkets. They also help to promote and market the bread to potential customers, using their knowledge of the local market and consumer preferences. Additionally, middlemen and re-sellers often buy the bread in bulk from the bakery and then sell it in smaller quantities to individual consumers. This allows them to earn a profit margin on each sale. However, the involvement of middlemen and re-sellers in the distribution of bread can also have negative effects on consumers. For example, they may mark up the price of the bread, leading to higher prices for consumers. They may also engage in unfair business practices, such as hoarding or price manipulation, which can further increase the prices of bread. Additionally, the reliance on middlemen and re-sellers can add an extra layer of complexity to the distribution process, potentially leading to delays or inefficiencies. Overall, while middlemen and re-sellers play a crucial role in the distribution of bread in Nigeria, their involvement can have both positive and negative effects on consumers.
 
+<details>
+  <summary>Full summary</summary>
+I. Introduction<br><br>Growing up with my Dad's love for bread<br><br>II. Personal Connection to Agege Bread<br><br>The absence of Agege bread in our household<br><br>III. Agege Bread's Cultural Significance<br><br>The unique qualities and uses of Agege bread<br><br>IV. The Journey of Agege Bread<br><br>Remembering my Dad's love for bread<br><br>Visiting Nigeria and experiencing the culture and cuisine<br><br>A Story from My Father about His Historical Narration on the Journey of Agege Bread from Nigeria to Cameroon<br><br>Transportation of Agege bread from Nigeria to Cameroon by 'Man No Rest'<br><br>Transfer of Agege bread at Ekok village in Cameroon<br><br>Transportation of Agege bread to Mamfe, Kumba, and other cities in the Southwest Region of Cameroon<br><br>High demand for Agege bread leading to the construction of an Agege bread bakery in Kumba<br><br>Commercial production and distribution of Agege bread in Kumba<br><br>Identification of Agege bread as Kumba bread by loyal customers<br><br>The branding of Kumba bread as a food with deep socio-cultural heritage<br><br>V. The Unique Qualities of Agege Bread<br><br>Agege bread is a century-old sweet tasting bread popular with the Hausa people in Nigeria.<br><br>Traditional Agege bread is not sold as sliced bread.<br><br>Agege is a district in the Ikeja Division of Lagos State, Nigeria.<br><br>VI. Recipes and Culinary Uses of Agege Bread<br><br>The ingredients for making sweet Nigerian Agege bread are: 6 cups all-purpose flour, 2 packages of active dry yeast, ½ cup of white sugar, 2½ cups of warm water, 3 tablespoons of softened butter, and 1 tablespoon of salt.<br><br>The directions for making sweet Nigerian Agege bread are: 1. Dissolve yeast and sugar in warm water. 2. Stir in butter, salt, and two cups of flour. 3. Stir in the remaining flour gradually. 4. Knead the dough until smooth and elastic. 5. Let the dough rise until doubled in volume. 6. Deflate the dough and shape it into loaves. 7. Let the loaves rise until doubled in volume. 8. Bake the loaves until golden brown.<br><br>An Agege bread breakfast sandwich recipe includes: 4 large eggs, 1 medium tomato, 1 small zucchini, 1 small onion, ½ cup chopped green pepper, ¼ teaspoon salt, ½ teaspoon red pepper, and 1 tablespoon butter.<br><br>The directions for making an Agege bread breakfast sandwich are: 1. Beat the eggs and add the remaining ingredients except butter. 2. Melt butter in a skillet and pour the egg mixture into the skillet. 3. Cook the omelet until puffed and lightly browned. 4. Loosen the omelet from the skillet and place it between slices of Agege bread.<br><br>VII. Nigeria's Economy and Food Consumption<br><br>Nigeria is the most populous country in Africa. Nigeria has the largest economy by GDP in Africa. Agriculture is important to Nigeria's economy and daily lives. Nigeria is a net importer of food and agricultural products. Bread, semolina, pasta, and other wheat flour-based products are staples in Nigeria. Nigeria has a large population of youth. Nigeria is Africa's biggest oil exporter. Nigeria has the largest natural gas reserves in Africa. Nigeria accounts for nearly 20% of continental GDP. Nigeria accounts for about 47% of West Africa's population. Nigeria faces developmental challenges such as reducing dependency on oil, addressing infrastructure, and governance issues. Farming sector employs about 70% of Nigeria's labor force. Nigeria's small farms produce 80% of the total food. Conflicts and climate events affect agriculture in Nigeria. Nigeria's population is projected to reach 392 million by 2050. Nigeria is a member of the World Trade Organization (WTO) but employs trade-restrictive measures. Nigeria has over 30 million hectares of farmland under cultivation. Nigeria depends on local farms for food. Demand for wheat and wheat flour-based products is increasing in Nigeria. Nigeria's wheat production is inadequate to meet demand. Nigeria imports wheat valued at about $1.5 billion and $1.7 billion in 2017 and 2018, respectively. Nigeria's bakery product market is expected to grow. Nigeria has a large market for bread consumption. Nigeria's key supplier of bread and bakery is the UK. Nigeria's key importer of bread and bakery is Thailand. Average export price for bread and bakery in Nigeria is $2,449 per tonne. Average import price for bread and bakery in Nigeria is $1,952 per tonne. Nigeria has a massive market for bread with a consumption of 7.2 million loaves per day. Sugar bread is the No. 1 bakery product in Nigeria. Nigeria's artisan bakeries dominate the market. Middlemen and re-sellers play a role in bread distribution in Nigeria.<br><br>VIII. Challenges and Future of Nigeria's Agriculture<br><br>The word 'swallow' originated from the Anambra dialect. The word for swallow foods originated in West Africa. The cassava plant is native to South America. Cassava was introduced to West Africa during the Colonial period. Garri did not become popular in Nigeria until the 19th century. Garri is pre-prepared and sold in grocery stores across Nigeria. Eba is one of the most popular Nigerian swallows.<br><br>IX. Bread Market in Nigeria<br><br>X. Conclusion
+</details>
