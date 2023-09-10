@@ -1,35 +1,35 @@
 ---
-    layout: post
-    title:  "Intuit Assist: Revolutionizing Financial Recommendations and Decision-Making"
-    description: "TurboTax-maker Intuit has launched an AI assistant called 'Intuit Assist' that provides AI-generated financial recommendations and assists with decision-making when using the company's software. Intuit Assist utilizes a custom large language model platform called GenOS and is available to TurboTax customers and select users of Intuit's other products. Intuit sees Intuit Assist as a way to level the playing field for small and medium-sized businesses."
-    date:   2023-09-09 20:22:26 -0400
-    image: '/assets/f8ad7da1-cce1-44c2-a7e7-8ba955ba2878/combined.jpg'
-    author: 'tanner'
-    sources: https://arstechnica.com/?p=1965752 https://techcrunch.com/2023/09/06/intuit-assist-generative-ai-assistant/ https://www.computerworld.com/article/3706248/intuit-debuts-generative-ai-for-quickbooks-turbotax-and-other-major-products.html https://www.intuit.com/company/press-room/press-releases/2023/introducing-intuit-assist-the-generative-ai-powered-financial-assistant-for-small-businesses-and-consumers/ https://www.intuit.com/company/press-room/press-releases/2023/intuit-introduces-generative-ai-operating-system-with-custom-trained-financial-large-language-models/ https://www.intuit.com/products/
-    tags: ["technology"]
-    carousel_sources:
+layout: post
+title:  "Intuit Assist: Revolutionizing Financial Recommendations and Decision-Making"
+description: "TurboTax-maker Intuit has launched an AI assistant called 'Intuit Assist' that provides AI-generated financial recommendations and assists with decision-making when using the company's software. Intuit Assist utilizes a custom large language model platform called GenOS and is available to TurboTax customers and select users of Intuit's other products. Intuit sees Intuit Assist as a way to level the playing field for small and medium-sized businesses."
+date:   2023-09-09 20:22:26 -0400
+image: '/assets/f8ad7da1-cce1-44c2-a7e7-8ba955ba2878/combined.jpg'
+author: 'tanner'
+sources: https://arstechnica.com/?p=1965752 https://techcrunch.com/2023/09/06/intuit-assist-generative-ai-assistant/ https://www.computerworld.com/article/3706248/intuit-debuts-generative-ai-for-quickbooks-turbotax-and-other-major-products.html https://www.intuit.com/company/press-room/press-releases/2023/introducing-intuit-assist-the-generative-ai-powered-financial-assistant-for-small-businesses-and-consumers/ https://www.intuit.com/company/press-room/press-releases/2023/intuit-introduces-generative-ai-operating-system-with-custom-trained-financial-large-language-models/ https://www.intuit.com/products/
+tags: ["technology"]
+carousel_sources:
 - domain: arstechnica.com
-  icon_path: /assets/f8ad7da1-cce1-44c2-a7e7-8ba955ba2878/source1_icon.jpg
-  image_path: /assets/f8ad7da1-cce1-44c2-a7e7-8ba955ba2878/source1.jpg
-  link: https://arstechnica.com/?p=1965752
-  title: TurboTax-maker Intuit offers an AI agent that provides financial tips | Ars
-    Technica
+icon_path: /assets/f8ad7da1-cce1-44c2-a7e7-8ba955ba2878/source1_icon.jpg
+image_path: /assets/f8ad7da1-cce1-44c2-a7e7-8ba955ba2878/source1.jpg
+link: https://arstechnica.com/?p=1965752
+title: TurboTax-maker Intuit offers an AI agent that provides financial tips | Ars
+Technica
 - domain: techcrunch.com
-  icon_path: /assets/f8ad7da1-cce1-44c2-a7e7-8ba955ba2878/source2_icon.jpg
-  image_path: /assets/f8ad7da1-cce1-44c2-a7e7-8ba955ba2878/source2.jpg
-  link: https://techcrunch.com/2023/09/06/intuit-assist-generative-ai-assistant/
-  title: Intuit launches generative AI-powered digital assistant for small businesses
-    and consumers | TechCrunch
+icon_path: /assets/f8ad7da1-cce1-44c2-a7e7-8ba955ba2878/source2_icon.jpg
+image_path: /assets/f8ad7da1-cce1-44c2-a7e7-8ba955ba2878/source2.jpg
+link: https://techcrunch.com/2023/09/06/intuit-assist-generative-ai-assistant/
+title: Intuit launches generative AI-powered digital assistant for small businesses
+and consumers | TechCrunch
 - domain: www.computerworld.com
-  icon_path: /assets/f8ad7da1-cce1-44c2-a7e7-8ba955ba2878/source3_icon.jpg
-  image_path: /assets/f8ad7da1-cce1-44c2-a7e7-8ba955ba2878/source3.jpg
-  link: https://www.computerworld.com/article/3706248/intuit-debuts-generative-ai-for-quickbooks-turbotax-and-other-major-products.html
-  title: Intuit debuts generative AI for QuickBooks, TurboTax, and other major products
-    | Computerworld
+icon_path: /assets/f8ad7da1-cce1-44c2-a7e7-8ba955ba2878/source3_icon.jpg
+image_path: /assets/f8ad7da1-cce1-44c2-a7e7-8ba955ba2878/source3.jpg
+link: https://www.computerworld.com/article/3706248/intuit-debuts-generative-ai-for-quickbooks-turbotax-and-other-major-products.html
+title: Intuit debuts generative AI for QuickBooks, TurboTax, and other major products
+| Computerworld
 
-    ---
+---
 
-    Intuit has unveiled its first customer-facing generative AI-powered solution: a digital assistant named Intuit Assist. This article discusses the features and capabilities of Intuit Assist, as well as the challenges and considerations involved in deploying generative AI.
+Intuit has unveiled its first customer-facing generative AI-powered solution: a digital assistant named Intuit Assist. This article discusses the features and capabilities of Intuit Assist, as well as the challenges and considerations involved in deploying generative AI.
 
 I. Features and Capabilities of Intuit Assist
 
