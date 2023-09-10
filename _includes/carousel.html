@@ -7,7 +7,8 @@
             <div class="domain-info" id="domain_info_{{ forloop.index }}">
                 {% if item.icon_path %}
                 <img src="{{ site.baseurl }}{{ item.icon_path }}" alt="{{ item.domain }}"
-                     class="scrolling-icon">
+                     class="scrolling-icon"
+                     onerror="this.onerror=null; this.style.display='none';"> <!-- Hide on error -->
                 {% endif %}
 
                 <a href="{{ item.link }}" target="_blank" rel="noopener noreferrer" class="domain-link">
@@ -16,12 +17,11 @@
             </div>
             {% if item.image_path %}
             <a href="{{ item.link }}" target="_blank" rel="noopener noreferrer" class="scrolling-link">
-                <img src="/images/cool.jpg"
-                     data-src="{{ site.baseurl }}{{ item.image_path }}"
+                <img src="{{ site.baseurl }}{{ item.image_path }}"
                      alt="{{ item.title }}"
                      class="scrolling-image"
                      loading="lazy"
-                     onerror="this.onerror=null; this.src='cool.jpg';"> <!-- Fallback Image -->
+                     onerror="this.onerror=null; this.src='/images/cool.jpg';"> <!-- Fallback Image -->
             </a>
             {% endif %}
 
@@ -186,12 +186,4 @@
 
     // Check when the window is resized
     window.addEventListener('resize', checkSlideButtons);
-</script>
-
-<script>
-    // Lazy loading the actual image
-    document.addEventListener("DOMContentLoaded", function () {
-        const img = document.querySelector(".scrolling-image");
-        img.src = img.getAttribute("data-src");
-    });
 </script>
