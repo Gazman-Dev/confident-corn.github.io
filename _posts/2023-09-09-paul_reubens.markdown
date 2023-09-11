@@ -60,37 +60,23 @@ Throughout his career, Paul Reubens faced controversies and struggles that teste
 ## What can we expect to learn from Paul Reubens' unfinished memoir?
 Paul Reubens' unfinished memoir promises to provide a fascinating insight into his life and career. The memoir is expected to delve into the behind-the-scenes stories of Pee-wee's Playhouse, offering a glimpse into the creative process and the challenges of bringing the show to life. Reubens' memoir may also explore his personal journey and the impact of the controversies he faced on his life and career. It could provide an intimate look at his thoughts and emotions during challenging times, shedding light on his resilience and determination to continue making people laugh. Additionally, the memoir may offer valuable lessons about embracing one's uniqueness, following one's passions, and overcoming adversity. Fans of Paul Reubens and Pee-wee Herman eagerly await the publication of his memoir to gain a deeper understanding of the man behind the iconic character.
 
+
 <details>
-  <summary>Full summary</summary>
-I. Introduction
-
-Paul Reubens, beloved American actor, comedian, writer, and producer, passed away after a long battle with cancer. Known for his iconic character Pee-wee Herman, Reubens captured the hearts of audiences of all ages with his boundless energy, creativity, and comedic genius.
-
-II. Pee-wee's Playhouse
-
-Reubens first introduced Pee-wee Herman while performing with The Groundlings. The character quickly became a sensation, with Pee-wee's quirky mannerisms, catchphrases, and distinct red bow tie becoming instantly recognizable.
-
-One of Reubens' most notable achievements was the creation of 'Pee-wee's Playhouse,' a Saturday morning children's program that ran from 1986 to 1990. The show combined puppets, parody, and archival educational films, creating a colorful and imaginative world where anything was possible. Pee-wee Herman's wacky adventures and the eclectic cast of characters, including the popular Cowboy Curtis played by Laurence Fishburne, delighted audiences and made 'Pee-wee's Playhouse' a cultural phenomenon.
-
-III. Pee-wee's Big Adventure
-
-In addition to his success on television, Reubens also brought Pee-wee Herman to the big screen in 'Pee-wee's Big Adventure,' a film directed by Tim Burton. The movie, released in 1985, showcased Reubens' comedic brilliance and further solidified Pee-wee Herman's place in pop culture.
-
-IV. Controversies and struggles
-
-Throughout his career, Reubens faced controversy and personal struggles, but he remained dedicated to making people laugh. He received numerous Emmy nominations for his portrayal of Pee-wee Herman and was recognized for injecting a queer sensibility into the mainstream with the beloved 'Pee-wee's Playhouse Christmas Special,' featuring iconic guests such as Grace Jones and KD Lang.
-
-Reubens' impact extended beyond Pee-wee Herman. He appeared in various films and TV shows, including 'Blow,' 'Batman Returns,' 'Buffy the Vampire Slayer,' 'The Nightmare Before Christmas,' 'Murphy Brown,' and 'Ally McBeal.' Reubens' unique brand of humor and his ability to transform into different characters showcased his versatility as an actor.
-
-V. Unfinished memoir
-
-In his final years, Reubens worked tirelessly on a memoir about his life and career. Unfortunately, he was unable to see its publication. The book promises to provide both funny and serious stories, giving fans a deeper understanding of Reubens and the character he brought to life.
-
-VI. Paul Reubens' legacy
-
-Paul Reubens' eccentricity and boundless imagination made Pee-wee Herman a beloved cultural icon. His legacy will continue to inspire future generations to embrace their inner child and find joy in the unexpected. As we remember Paul Reubens, we celebrate his contributions to comedy and entertainment, forever grateful for the laughter and wonder he shared.
-
-VII. Conclusion
-
-As we bid farewell to Paul Reubens, we hold onto the memories of his infectious laughter and the magic he brought to our lives. His legacy as a comedy icon will forever be cherished, and his impact on pop culture will continue to resonate. Today, we celebrate the life and work of Paul Reubens, a true legend.
+        <summary>Full summary</summary>
+<p>I. Introduction</p>
+<p>Paul Reubens, beloved American actor, comedian, writer, and producer, passed away after a long battle with cancer. Known for his iconic character Pee-wee Herman, Reubens captured the hearts of audiences of all ages with his boundless energy, creativity, and comedic genius.</p>
+<p>II. Pee-wee's Playhouse</p>
+<p>Reubens first introduced Pee-wee Herman while performing with The Groundlings. The character quickly became a sensation, with Pee-wee's quirky mannerisms, catchphrases, and distinct red bow tie becoming instantly recognizable.</p>
+<p>One of Reubens' most notable achievements was the creation of 'Pee-wee's Playhouse,' a Saturday morning children's program that ran from 1986 to 1990. The show combined puppets, parody, and archival educational films, creating a colorful and imaginative world where anything was possible. Pee-wee Herman's wacky adventures and the eclectic cast of characters, including the popular Cowboy Curtis played by Laurence Fishburne, delighted audiences and made 'Pee-wee's Playhouse' a cultural phenomenon.</p>
+<p>III. Pee-wee's Big Adventure</p>
+<p>In addition to his success on television, Reubens also brought Pee-wee Herman to the big screen in 'Pee-wee's Big Adventure,' a film directed by Tim Burton. The movie, released in 1985, showcased Reubens' comedic brilliance and further solidified Pee-wee Herman's place in pop culture.</p>
+<p>IV. Controversies and struggles</p>
+<p>Throughout his career, Reubens faced controversy and personal struggles, but he remained dedicated to making people laugh. He received numerous Emmy nominations for his portrayal of Pee-wee Herman and was recognized for injecting a queer sensibility into the mainstream with the beloved 'Pee-wee's Playhouse Christmas Special,' featuring iconic guests such as Grace Jones and KD Lang.</p>
+<p>Reubens' impact extended beyond Pee-wee Herman. He appeared in various films and TV shows, including 'Blow,' 'Batman Returns,' 'Buffy the Vampire Slayer,' 'The Nightmare Before Christmas,' 'Murphy Brown,' and 'Ally McBeal.' Reubens' unique brand of humor and his ability to transform into different characters showcased his versatility as an actor.</p>
+<p>V. Unfinished memoir</p>
+<p>In his final years, Reubens worked tirelessly on a memoir about his life and career. Unfortunately, he was unable to see its publication. The book promises to provide both funny and serious stories, giving fans a deeper understanding of Reubens and the character he brought to life.</p>
+<p>VI. Paul Reubens' legacy</p>
+<p>Paul Reubens' eccentricity and boundless imagination made Pee-wee Herman a beloved cultural icon. His legacy will continue to inspire future generations to embrace their inner child and find joy in the unexpected. As we remember Paul Reubens, we celebrate his contributions to comedy and entertainment, forever grateful for the laughter and wonder he shared.</p>
+<p>VII. Conclusion</p>
+<p>As we bid farewell to Paul Reubens, we hold onto the memories of his infectious laughter and the magic he brought to our lives. His legacy as a comedy icon will forever be cherished, and his impact on pop culture will continue to resonate. Today, we celebrate the life and work of Paul Reubens, a true legend.</p>
 </details>

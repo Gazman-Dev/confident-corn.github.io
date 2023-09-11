@@ -78,8 +78,9 @@ To prevent similar controversies in the future and promote gender equality in fo
 
 
 
+
 <details>
-  <summary>Full summary</summary>
+        <summary>Full summary</summary>
 <p>In a shocking turn of events, Luis Rubiales has resigned as president of the Spanish Football Federation amid a high-profile scandal involving a non-consensual kiss with Spain forward Jenni Hermoso at the Women's World Cup final presentation ceremony. The fallout from this incident has sent shockwaves across the football world and has sparked a national scandal.</p>
 <p>The controversy began when Rubiales kissed Hermoso on the lips during the celebration of Spain's victory in the Women's World Cup. However, Hermoso immediately filed a legal complaint against Rubiales, claiming that the kiss was not consensual. This prompted a series of events that have unfolded over the past few weeks.</p>
 <p>Rubiales initially ignored calls to resign and even went on to defend his actions, stating that the kiss was spontaneous, mutual, euphoric, and consensual. However, the public outcry against him grew stronger by the day. A prosecutor filed a complaint against Rubiales for sexual assault and coercion, leading to further pressure on him to step down.</p>

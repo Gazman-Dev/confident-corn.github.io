@@ -71,8 +71,9 @@ Some potential contenders for Strickland's first title defense could include fig
 
 
 
+
 <details>
-  <summary>Full summary</summary>
+        <summary>Full summary</summary>
 <p>The highly anticipated main event between Adesanya and Strickland held the spotlight. Adesanya, the defending champion, faced off against the formidable challenger, Strickland. The fight took place in Adesanya's hometown, giving him a significant advantage. However, the outcome shocked fans as Strickland dominated the fight and secured a clear unanimous decision win.</p>
 <p>Strickland's victory over Adesanya was a historic moment in UFC history. Adesanya, renowned for his striking skills, struggled to find his rhythm against Strickland's relentless pressure and aggression.</p>
 <p>Aside from the main event, the fight card featured several other exciting matchups that kept fans on the edge of their seats. Alexander Volkov impressed with a submission win over Tai Tuivasa, utilizing an ezekiel choke. Justin Tafa showcased his power with a first-round knockout victory. The night also witnessed rapid-fire first-round knockouts by Tyson Pedro and Manel Kape.</p>

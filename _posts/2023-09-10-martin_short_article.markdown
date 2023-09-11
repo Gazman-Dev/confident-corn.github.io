@@ -75,8 +75,9 @@ Maintaining a balance between his personal and professional life has been a prio
 
 
 
+
 <details>
-  <summary>Full summary</summary>
+        <summary>Full summary</summary>
 <p>The Slate op-ed criticizes Martin Short's comedic career, calling him "over-the-top characters" that are "unbelievably annoying." However, several stars have come to Short's defense, praising him as a comedic genius and hilarious performer.</p>
 <p>Martin Short, born on March 26, 1950, in Canada, has had a remarkable career that spans across various mediums. From studying social work to landing a role in the Toronto production of Godspell in 1972, Short quickly made a name for himself in the entertainment industry.</p>
 <p>Joining the Toronto Second City stage in March 1977 and later becoming part of Second City Television (SCTV), Short showcased his comedic talents alongside renowned comedians like John Candy, Eugene Levy, and Catherine O'Hara. SCTV, a popular Canadian sketch comedy show that aired from 1981 to 1984, solidified Short's comedic brilliance and showcased his ability to create iconic characters like Ed Grimley.</p>

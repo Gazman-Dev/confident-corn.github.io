@@ -17,7 +17,125 @@ Xpeng's wider-than-expected loss in the second quarter can be attributed to seve
 ## How will the investment from activist investor Starboard Value impact Bloomin' Brands and its stock performance in the future?
 The investment from activist investor Starboard Value is likely to have a significant impact on Bloomin' Brands and its stock performance in the future. With Starboard taking a 9.9% stake in the company, it brings not only a significant financial investment but also potential changes in the company's strategic direction and governance. Activist investors often push for changes to improve the company's operational efficiency, financial performance, and shareholder value. Starboard's successful track record with restaurant investments suggests that they have the expertise and resources to drive positive change in Bloomin' Brands. This investment can bring fresh perspectives, new strategies, and operational improvements, which can lead to increased profitability and stock value. Additionally, the speculation of a large stock purchase by Morgan Stanley indicates market confidence in the potential turnaround of Bloomin' Brands. However, it is important to note that any significant changes or initiatives implemented by Starboard Value will need to be carefully executed and monitored to ensure their effectiveness and alignment with the company's long-term goals. The market's response to these changes and the company's ability to deliver positive financial results will ultimately determine the impact on Bloomin' Brands' stock performance in the future.
 
+
 <details>
-  <summary>Full summary</summary>
-In today's news, we cover a range of stories that are making headlines. From the latest financial reports of major companies to the challenges faced by the Chinese economy, and the performance of the electric car market, there is plenty to cover. Let's dive in.<br><br>Main Source:<br><br>These companies are making headlines due to their recent financial reports or market outlook.<br><br>- Palo Alto Networks' fiscal fourth-quarter earnings expected to be released<br>- Ross Stores' postmarket earnings report beats expectations<br>- Shares of Chinese companies, including Alibaba, JD.com, PDD, and Nio, decline amid concerns over China's real estate market<br>- XPeng reports wider-than-expected loss in the second quarter<br>- Applied Materials beats earnings expectations in fiscal third quarter<br>- Estee Lauder beats earnings and revenue estimates but lowers full-year guidance<br>- Keysight Technologies provides bleak outlook for fiscal fourth quarter<br>- Farfetch reports lower-than-expected revenue and cuts gross merchandise value outlook<br>- Activist investor buys stake in Bloomin' Brands<br><br>Extra Sources:<br><br>Ross Stores, Inc. to release second quarter 2023 earnings results and company information.<br><br>- Ross Stores, Inc. plans to release its second quarter 2023 earnings results on Thursday, August 17, 2023 at approximately 4:00 p.m. Eastern Time.<br>- Participants may listen to a real-time audio webcast of the conference call on Thursday, August 17, 2023 at 4:15 p.m. Eastern Time.<br>- A recorded version of the call will also be available at the website address, as well as via a telephone recording at 201-612-7415, Passcode #13740437, through 8:00 p.m. Eastern Time on August 24, 2023.<br>- Ross Stores, Inc. is an S&P 500, Fortune 500, and Nasdaq 100 (ROST) company headquartered in Dublin, California, with fiscal 2022 revenues of $18.7 billion.<br>- The Company operates Ross Dress for Less® ('Ross'), the largest off-price apparel and home fashion chain in the United States in 41 states, the District of Columbia, and Guam.<br>- Ross offers first-quality, in-season, name brand and designer apparel, accessories, footwear, and home fashions for the entire family at savings of 20% to 60% off department and specialty store regular prices every day.<br>- The Company also operates dd's DISCOUNTS® in 22 states that feature a more moderately-priced assortment of first-quality, in-season, name brand apparel, accessories, footwear, and home fashions for the entire family at savings of 20% to 70% off moderate department and discount store regular prices every day.<br>- Additional information is available at www.rossstores.com.<br><br>Article on the economic challenges faced by China<br><br>- Mr. Xi expresses confidence in the future of China's economy<br>- Growth in China is slowing<br>- Demand in China is slackening<br>- China's debt is at near-record levels<br>- China's economy may face difficult challenges in the next several years<br>- China's aging population poses a burden on the economy and labor force<br>- China's birthrate has fallen sharply<br>- Private businesses in China are struggling due to rising costs and the pandemic<br><br>Xpeng's performance and future prospects in the electric car market<br><br>- Xpeng's shares declined over 6% in pre-market trade<br>- Xpeng reported a wider-than-expected loss in the second quarter<br>- Xpeng's net loss was 2.8 billion yuan, compared to an expected loss of 2.13 billion yuan<br>- Xpeng's second-quarter revenue met expectations<br>- Xpeng's gross margin turned negative at -3.9% in the second quarter<br>- Xpeng reported positive delivery growth in Q2<br>- Xpeng expects vehicle deliveries to reach between 39,000 and 41,000 in the third quarter<br>- Xpeng forecasts third-quarter revenue to range from 8.5 billion yuan to 9 billion yuan<br>- Xpeng attracted investment from Volkswagen<br>- Xpeng's stock has risen by over 50% this year<br>- Tesla cut prices for its Model Y and Model S cars<br><br>Wide-moat Applied Materials AMAT maintains $110 fair value estimate after good fiscal Q3 results<br><br>- Maintaining a $110 fair value estimate for Applied Materials<br>- Good fiscal third-quarter results<br>- Sales in the quarter exceeded expectations<br>- Guidance for the fiscal fourth quarter exceeded expectations<br>- Demand for trailing-edge products offset weakness in mobile and PC markets<br>- Services business buoying sales<br>- Downcycle in memory chips weighing on results<br>- DRAM sales faring better than flash sales<br>- Well-positioned to capitalize on long-term trends like IoT and AI<br>- Valuation challenging, shares seen as overvalued<br>- Fiscal third-quarter sales declined 1% YoY and 3% sequentially<br>- DRAM sales rose about 45% sequentially<br>- NAND sales declined steeply<br>- Logic and foundry sales declined sequentially but rose YoY<br>- Strong sales in automotive and industrial markets<br>- Solid GAAP gross margin in the quarter<br><br>Article about the recent performance and outlook of Estée Lauder<br><br>- Shares of Estée Lauder fell 21% during the first half of the year<br>- Sales and earnings have been declining<br>- Estée Lauder lowered its full-year outlook<br>- In the 2023 third fiscal quarter, sales declined 12% and earnings per share (EPS) were down<br>- Management lowered full-year guidance<br>- Sales are expected to drop 10% to 12%<br>- The EPS outlook is revised down<br>- Estée Lauder stock price has decreased<br>- Estée Lauder is a highly profitable company with valuable brand names<br>- It pays a dividend<br>- Shares trade at a high valuation<br>- Consider buying the stock after improvement or a bigger pullback in the stock price<br><br>Article on healthcare delivery beyond traditional four walls<br><br>- Healthcare delivery beyond the hospital's four walls<br>- Growth of ambulatory surgery centers and virtual care<br>- Expanded scope requiring EHR systems to manage new workflows<br>- Automation solution for testing the entire workflow<br>- More patient-centered approach to care delivery<br>- Technology enabling personalized treatment plans and reshaping physician workflows<br>- Patient engagement and retention as a business strategy<br>- Examples of technology-enabled patient care<br>- Challenges of healthcare delivery in new care sites<br>- Test automation supporting resolution of regulatory and security issues<br>- Importance of validating clinical and patient workflows<br>- Emulated test automation testing the entire patient journey<br>- SureTest automates any end-user testing for EHR and third-party applications<br>- Testing conducted in a non-PHI environment<br>- Delivered via a managed service solution<br>- Letting go of manual processes and trusting test automation<br>- SureTest and Eggplant partnering to improve testing quality and automate testing<br>- Benefits and timeframe of implementing SureTest's solution<br><br>Article about Bloomin' Brands and its recent stock gains due to an investment from Starboard Value<br><br>- Shares of Bloomin' Brands surged 7.8%<br>- The company received a large investment from activist investor Starboard Value<br>- Speculation about a large stock purchase by Morgan Stanley<br>- Starboard has taken a 9.9% stake in Bloomin'<br>- Bloomin's stock price trades at less than 10 times earnings estimates<br>- Last quarter's total company same-store sales grew by just 0.8%<br>- Traffic declined across every restaurant concept for Bloomin'<br>- Starboard has a successful track record with restaurant investments<br>- Better times could be on the horizon for Bloomin' Brands' stock
+        <summary>Full summary</summary>
+<p>In today's news, we cover a range of stories that are making headlines. From the latest financial reports of major companies to the challenges faced by the Chinese economy, and the performance of the electric car market, there is plenty to cover. Let's dive in.</p>
+<p>Main Source:</p>
+<p>These companies are making headlines due to their recent financial reports or market outlook.</p>
+<ul>
+<li>Palo Alto Networks' fiscal fourth-quarter earnings expected to be released</li>
+<li>Ross Stores' postmarket earnings report beats expectations</li>
+<li>Shares of Chinese companies, including Alibaba, JD.com, PDD, and Nio, decline amid concerns over China's real estate market</li>
+<li>XPeng reports wider-than-expected loss in the second quarter</li>
+<li>Applied Materials beats earnings expectations in fiscal third quarter</li>
+<li>Estee Lauder beats earnings and revenue estimates but lowers full-year guidance</li>
+<li>Keysight Technologies provides bleak outlook for fiscal fourth quarter</li>
+<li>Farfetch reports lower-than-expected revenue and cuts gross merchandise value outlook</li>
+<li>Activist investor buys stake in Bloomin' Brands</li>
+</ul>
+<p>Extra Sources:</p>
+<p>Ross Stores, Inc. to release second quarter 2023 earnings results and company information.</p>
+<ul>
+<li>Ross Stores, Inc. plans to release its second quarter 2023 earnings results on Thursday, August 17, 2023 at approximately 4:00 p.m. Eastern Time.</li>
+<li>Participants may listen to a real-time audio webcast of the conference call on Thursday, August 17, 2023 at 4:15 p.m. Eastern Time.</li>
+<li>A recorded version of the call will also be available at the website address, as well as via a telephone recording at 201-612-7415, Passcode #13740437, through 8:00 p.m. Eastern Time on August 24, 2023.</li>
+<li>Ross Stores, Inc. is an S&amp;P 500, Fortune 500, and Nasdaq 100 (ROST) company headquartered in Dublin, California, with fiscal 2022 revenues of $18.7 billion.</li>
+<li>The Company operates Ross Dress for Less® ('Ross'), the largest off-price apparel and home fashion chain in the United States in 41 states, the District of Columbia, and Guam.</li>
+<li>Ross offers first-quality, in-season, name brand and designer apparel, accessories, footwear, and home fashions for the entire family at savings of 20% to 60% off department and specialty store regular prices every day.</li>
+<li>The Company also operates dd's DISCOUNTS® in 22 states that feature a more moderately-priced assortment of first-quality, in-season, name brand apparel, accessories, footwear, and home fashions for the entire family at savings of 20% to 70% off moderate department and discount store regular prices every day.</li>
+<li>Additional information is available at www.rossstores.com.</li>
+</ul>
+<p>Article on the economic challenges faced by China</p>
+<ul>
+<li>Mr. Xi expresses confidence in the future of China's economy</li>
+<li>Growth in China is slowing</li>
+<li>Demand in China is slackening</li>
+<li>China's debt is at near-record levels</li>
+<li>China's economy may face difficult challenges in the next several years</li>
+<li>China's aging population poses a burden on the economy and labor force</li>
+<li>China's birthrate has fallen sharply</li>
+<li>Private businesses in China are struggling due to rising costs and the pandemic</li>
+</ul>
+<p>Xpeng's performance and future prospects in the electric car market</p>
+<ul>
+<li>Xpeng's shares declined over 6% in pre-market trade</li>
+<li>Xpeng reported a wider-than-expected loss in the second quarter</li>
+<li>Xpeng's net loss was 2.8 billion yuan, compared to an expected loss of 2.13 billion yuan</li>
+<li>Xpeng's second-quarter revenue met expectations</li>
+<li>Xpeng's gross margin turned negative at -3.9% in the second quarter</li>
+<li>Xpeng reported positive delivery growth in Q2</li>
+<li>Xpeng expects vehicle deliveries to reach between 39,000 and 41,000 in the third quarter</li>
+<li>Xpeng forecasts third-quarter revenue to range from 8.5 billion yuan to 9 billion yuan</li>
+<li>Xpeng attracted investment from Volkswagen</li>
+<li>Xpeng's stock has risen by over 50% this year</li>
+<li>Tesla cut prices for its Model Y and Model S cars</li>
+</ul>
+<p>Wide-moat Applied Materials AMAT maintains $110 fair value estimate after good fiscal Q3 results</p>
+<ul>
+<li>Maintaining a $110 fair value estimate for Applied Materials</li>
+<li>Good fiscal third-quarter results</li>
+<li>Sales in the quarter exceeded expectations</li>
+<li>Guidance for the fiscal fourth quarter exceeded expectations</li>
+<li>Demand for trailing-edge products offset weakness in mobile and PC markets</li>
+<li>Services business buoying sales</li>
+<li>Downcycle in memory chips weighing on results</li>
+<li>DRAM sales faring better than flash sales</li>
+<li>Well-positioned to capitalize on long-term trends like IoT and AI</li>
+<li>Valuation challenging, shares seen as overvalued</li>
+<li>Fiscal third-quarter sales declined 1% YoY and 3% sequentially</li>
+<li>DRAM sales rose about 45% sequentially</li>
+<li>NAND sales declined steeply</li>
+<li>Logic and foundry sales declined sequentially but rose YoY</li>
+<li>Strong sales in automotive and industrial markets</li>
+<li>Solid GAAP gross margin in the quarter</li>
+</ul>
+<p>Article about the recent performance and outlook of Estée Lauder</p>
+<ul>
+<li>Shares of Estée Lauder fell 21% during the first half of the year</li>
+<li>Sales and earnings have been declining</li>
+<li>Estée Lauder lowered its full-year outlook</li>
+<li>In the 2023 third fiscal quarter, sales declined 12% and earnings per share (EPS) were down</li>
+<li>Management lowered full-year guidance</li>
+<li>Sales are expected to drop 10% to 12%</li>
+<li>The EPS outlook is revised down</li>
+<li>Estée Lauder stock price has decreased</li>
+<li>Estée Lauder is a highly profitable company with valuable brand names</li>
+<li>It pays a dividend</li>
+<li>Shares trade at a high valuation</li>
+<li>Consider buying the stock after improvement or a bigger pullback in the stock price</li>
+</ul>
+<p>Article on healthcare delivery beyond traditional four walls</p>
+<ul>
+<li>Healthcare delivery beyond the hospital's four walls</li>
+<li>Growth of ambulatory surgery centers and virtual care</li>
+<li>Expanded scope requiring EHR systems to manage new workflows</li>
+<li>Automation solution for testing the entire workflow</li>
+<li>More patient-centered approach to care delivery</li>
+<li>Technology enabling personalized treatment plans and reshaping physician workflows</li>
+<li>Patient engagement and retention as a business strategy</li>
+<li>Examples of technology-enabled patient care</li>
+<li>Challenges of healthcare delivery in new care sites</li>
+<li>Test automation supporting resolution of regulatory and security issues</li>
+<li>Importance of validating clinical and patient workflows</li>
+<li>Emulated test automation testing the entire patient journey</li>
+<li>SureTest automates any end-user testing for EHR and third-party applications</li>
+<li>Testing conducted in a non-PHI environment</li>
+<li>Delivered via a managed service solution</li>
+<li>Letting go of manual processes and trusting test automation</li>
+<li>SureTest and Eggplant partnering to improve testing quality and automate testing</li>
+<li>Benefits and timeframe of implementing SureTest's solution</li>
+</ul>
+<p>Article about Bloomin' Brands and its recent stock gains due to an investment from Starboard Value</p>
+<ul>
+<li>Shares of Bloomin' Brands surged 7.8%</li>
+<li>The company received a large investment from activist investor Starboard Value</li>
+<li>Speculation about a large stock purchase by Morgan Stanley</li>
+<li>Starboard has taken a 9.9% stake in Bloomin'</li>
+<li>Bloomin's stock price trades at less than 10 times earnings estimates</li>
+<li>Last quarter's total company same-store sales grew by just 0.8%</li>
+<li>Traffic declined across every restaurant concept for Bloomin'</li>
+<li>Starboard has a successful track record with restaurant investments</li>
+<li>Better times could be on the horizon for Bloomin' Brands' stock</li>
+</ul>
 </details>

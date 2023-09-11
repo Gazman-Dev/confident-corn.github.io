@@ -63,8 +63,9 @@ Prime Minister Narendra Modi's handling of the coronavirus pandemic has had a si
 
 
 
+
 <details>
-  <summary>Full summary</summary>
+        <summary>Full summary</summary>
 <p>India is currently facing a range of internal challenges while preparing to host the G20 summit. This comes against the backdrop of deadly religious violence, an internet shutdown, and clashes spreading in tech start-up hub Gurugram. Prime Minister Narendra Modi is attempting a transformation of the country amidst these pressing issues.</p>
 <p>The 2023 G20 New Delhi summit is set to be a major event. The article highlights the background of the summit, the presidency, agenda priorities, preparations, and outcomes. Additionally, restrictions imposed in Delhi and a counter-meeting held during the summit are discussed.</p>
 <p>In northern Haryana state, mobs have torched Muslim-owned shops and a mosque, resulting in the death of an imam. Clashes between Hindu and Muslim communities in the Nuh district have created tension and fear among residents. The failure of authorities to contain the situation has been described by a local legislator. Both the Muslim community and the imam's family are struggling to address the violence.</p>

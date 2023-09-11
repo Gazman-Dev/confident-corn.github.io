@@ -17,7 +17,119 @@ It is important to troubleshoot and fix dryer noises before calling a repairpers
 ## What are the potential consequences of not replacing a worn dryer drum felt seal?
 Not replacing a worn dryer drum felt seal can lead to several potential consequences. Firstly, clothes can get caught or trapped between the drum and the dryer cabinet, causing tears or damage to the clothing. The worn felt seal allows for more space and movement between the drum and the cabinet, increasing the likelihood of clothes slipping into this gap. Secondly, the spinning motion of the drum can create holes in clothing if they get caught or entangled in the gap caused by the worn felt seal. This can result in the loss of clothing and the need to frequently repair or replace damaged items. Additionally, a worn felt seal can cause an increase in lint accumulation within the dryer, leading to potential fire hazards. Replacing the worn dryer drum felt seal is essential to prevent these consequences and ensure the proper functioning and safety of the dryer.
 
+
 <details>
-  <summary>Full summary</summary>
-When your dryer starts making unusual noises, it's important to troubleshoot the problem before calling a repairperson. This article provides step-by-step instructions on how to identify and fix common issues causing noises in your dryer.<br><br>Main Source:<br><br>- Dryer begins squeaking or making clunking and thumping noises<br>- Visual inspection to check for worn out parts<br>- Check drum rollers, axles, idler pulley, drive belt, and seal<br>- Order replacement parts with model number or visit a local shop<br>- Consider replacing all rollers and axles at once<br>- Call a repairperson if you're not comfortable making the repair<br><br>Extra Sources:<br><br>- Dryer squeaking when running<br>- Possible causes of dryer squeaking<br>- Loose screws or squeaky bearings<br>- Failing motor<br>- Loose floor or subfloor causing the dryer to squeak<br>- Unlevel floor or overloaded drum causing dryer to make loud noises<br>- Metal duct squeaking against the machine or wall<br>- Coins or other objects stuck in the lint trap<br>- Roller wheels or bearings not lubricated properly<br>- WD-40 can be used to grease up the wheels or legs<br>- Small foreign objects in the dryer's drum or lint filter<br>- Dryer belt worn out and needs replacement<br>- Rubbing bar soap or spraying belt lubricator on worn-out belt can temporarily remedy the squeaking noise<br>- Idler pulley may have lost traction and needs to be replaced<br>- Drum glide bearings may be faulty and need replacement<br>- Felt drum seal may be torn and require attention<br>- Dryer's blower wheel may have come loose and need to be tightened or replaced<br>- Baffles or lifters may be loose and require tightening or replacement<br>- Dryer bearings and motor may need to be replaced<br>- Appliance repair technician can diagnose the problem and offer potential solutions<br><br>Troubleshooting guide for dryers making loud noises<br><br>- Dryer making squeaky noises<br>- Check drum rollers and axles<br>- Check idler pulley<br>- Dryer making thumping noises<br>- Check drive belt<br>- Check drum rollers<br>- Check drum seal<br>- Dryer making grinding noises<br>- Check drum glides, slides, or pad<br>- Check drum bearing<br>- Dryer making squealing noises<br>- Check drum bearing<br>- Check drive belt<br>- Dryer making rumbling noises<br>- Check blower wheel<br>- Dryer making rattling noises<br>- Check baffles or lifters<br>- Dryer making multiple noises<br>- Check drive motor<br><br>Steps to remove the lint screen and open the top panel of the dryer<br><br>- Pull the lint screen out of the housing in the top panel of the dryer.<br>- Use a Phillips screwdriver to remove the 2 screws that secure the lint screen housing to the top panel.<br>- To release the clips that lock the top of the dryer in place, push a putty knife under the lid near the left and right edges of the front of the dryer.<br>- Lift the top and prop it securely against the wall behind the dryer.<br><br>Guide on why a dryer squeaks and how to fix it<br><br>- Dryer squeaking loudly is not normal wear and tear<br>- Squeaking indicates that a part has worn out and needs repair<br>- Possible causes of dryer squeaking: loose screws, squeaky bearings, failing motor<br>- Identify location of squeak to determine malfunctioning part<br>- Check if floor or subfloor underneath dryer is loose<br>- Check if floor is level or drum is overloaded<br>- Check if metal duct squeaks against machine or wall<br>- Check lint trap for loose objects like coins<br>- Check if roller wheels or bearings need lubrication<br>- Check if dryer belt is worn out and needs replacement<br>- Check if idler pulley is broken or loose<br>- Check if drum glide bearings are faulty<br>- Check if felt drum seal is torn<br>- Check if blower wheel is loose or damaged<br>- Check if baffles or lifters are loose<br>- Check if dryer bearings and motor need replacement<br>- Have a professional diagnose and repair the problem<br><br>Common causes of unusual dryer noise and how to fix them<br><br>- Drum Rollers and Axles: Squeaky or Thumping Noise<br>- Drive Belt: Thumping Noise<br>- Idler Pulley: Squeaky Noise<br>- Blower Wheel: Rumbling Noise<br>- Drum Glides: Grinding Noise<br>- Drum Bearing: Squealing/Grinding Noise<br>- Drive Motor: Multiple Noises<br><br>Steps to troubleshoot a dryer that won't stay on after replacing the belt<br><br>- Replaced broken belt<br>- Belt set up incorrectly on idler and motor pulleys<br>- Belt not textured side facing inward against drum<br>- Dryer still not staying on after making adjustments<br>- Motor likely the culprit<br>- Need to buy a new dryer<br><br>Article about the importance of replacing a worn dryer drum felt seal<br><br>- Finding tears in clothes after removing them from the dryer<br>- Felt drum seal on dryer is worn<br>- Need to replace the worn felt drum seal<br>- Clothes slipping between drum and dryer cabinet<br>- Dryer drum spinning and causing holes in clothing<br>- Installing a new dryer drum felt seal<br>- Extending the life of the dryer<br>- Preventing damage to clothes
+        <summary>Full summary</summary>
+<p>When your dryer starts making unusual noises, it's important to troubleshoot the problem before calling a repairperson. This article provides step-by-step instructions on how to identify and fix common issues causing noises in your dryer.</p>
+<p>Main Source:</p>
+<ul>
+<li>Dryer begins squeaking or making clunking and thumping noises</li>
+<li>Visual inspection to check for worn out parts</li>
+<li>Check drum rollers, axles, idler pulley, drive belt, and seal</li>
+<li>Order replacement parts with model number or visit a local shop</li>
+<li>Consider replacing all rollers and axles at once</li>
+<li>Call a repairperson if you're not comfortable making the repair</li>
+</ul>
+<p>Extra Sources:</p>
+<ul>
+<li>Dryer squeaking when running</li>
+<li>Possible causes of dryer squeaking</li>
+<li>Loose screws or squeaky bearings</li>
+<li>Failing motor</li>
+<li>Loose floor or subfloor causing the dryer to squeak</li>
+<li>Unlevel floor or overloaded drum causing dryer to make loud noises</li>
+<li>Metal duct squeaking against the machine or wall</li>
+<li>Coins or other objects stuck in the lint trap</li>
+<li>Roller wheels or bearings not lubricated properly</li>
+<li>WD-40 can be used to grease up the wheels or legs</li>
+<li>Small foreign objects in the dryer's drum or lint filter</li>
+<li>Dryer belt worn out and needs replacement</li>
+<li>Rubbing bar soap or spraying belt lubricator on worn-out belt can temporarily remedy the squeaking noise</li>
+<li>Idler pulley may have lost traction and needs to be replaced</li>
+<li>Drum glide bearings may be faulty and need replacement</li>
+<li>Felt drum seal may be torn and require attention</li>
+<li>Dryer's blower wheel may have come loose and need to be tightened or replaced</li>
+<li>Baffles or lifters may be loose and require tightening or replacement</li>
+<li>Dryer bearings and motor may need to be replaced</li>
+<li>Appliance repair technician can diagnose the problem and offer potential solutions</li>
+</ul>
+<p>Troubleshooting guide for dryers making loud noises</p>
+<ul>
+<li>Dryer making squeaky noises</li>
+<li>Check drum rollers and axles</li>
+<li>Check idler pulley</li>
+<li>Dryer making thumping noises</li>
+<li>Check drive belt</li>
+<li>Check drum rollers</li>
+<li>Check drum seal</li>
+<li>Dryer making grinding noises</li>
+<li>Check drum glides, slides, or pad</li>
+<li>Check drum bearing</li>
+<li>Dryer making squealing noises</li>
+<li>Check drum bearing</li>
+<li>Check drive belt</li>
+<li>Dryer making rumbling noises</li>
+<li>Check blower wheel</li>
+<li>Dryer making rattling noises</li>
+<li>Check baffles or lifters</li>
+<li>Dryer making multiple noises</li>
+<li>Check drive motor</li>
+</ul>
+<p>Steps to remove the lint screen and open the top panel of the dryer</p>
+<ul>
+<li>Pull the lint screen out of the housing in the top panel of the dryer.</li>
+<li>Use a Phillips screwdriver to remove the 2 screws that secure the lint screen housing to the top panel.</li>
+<li>To release the clips that lock the top of the dryer in place, push a putty knife under the lid near the left and right edges of the front of the dryer.</li>
+<li>Lift the top and prop it securely against the wall behind the dryer.</li>
+</ul>
+<p>Guide on why a dryer squeaks and how to fix it</p>
+<ul>
+<li>Dryer squeaking loudly is not normal wear and tear</li>
+<li>Squeaking indicates that a part has worn out and needs repair</li>
+<li>Possible causes of dryer squeaking: loose screws, squeaky bearings, failing motor</li>
+<li>Identify location of squeak to determine malfunctioning part</li>
+<li>Check if floor or subfloor underneath dryer is loose</li>
+<li>Check if floor is level or drum is overloaded</li>
+<li>Check if metal duct squeaks against machine or wall</li>
+<li>Check lint trap for loose objects like coins</li>
+<li>Check if roller wheels or bearings need lubrication</li>
+<li>Check if dryer belt is worn out and needs replacement</li>
+<li>Check if idler pulley is broken or loose</li>
+<li>Check if drum glide bearings are faulty</li>
+<li>Check if felt drum seal is torn</li>
+<li>Check if blower wheel is loose or damaged</li>
+<li>Check if baffles or lifters are loose</li>
+<li>Check if dryer bearings and motor need replacement</li>
+<li>Have a professional diagnose and repair the problem</li>
+</ul>
+<p>Common causes of unusual dryer noise and how to fix them</p>
+<ul>
+<li>Drum Rollers and Axles: Squeaky or Thumping Noise</li>
+<li>Drive Belt: Thumping Noise</li>
+<li>Idler Pulley: Squeaky Noise</li>
+<li>Blower Wheel: Rumbling Noise</li>
+<li>Drum Glides: Grinding Noise</li>
+<li>Drum Bearing: Squealing/Grinding Noise</li>
+<li>Drive Motor: Multiple Noises</li>
+</ul>
+<p>Steps to troubleshoot a dryer that won't stay on after replacing the belt</p>
+<ul>
+<li>Replaced broken belt</li>
+<li>Belt set up incorrectly on idler and motor pulleys</li>
+<li>Belt not textured side facing inward against drum</li>
+<li>Dryer still not staying on after making adjustments</li>
+<li>Motor likely the culprit</li>
+<li>Need to buy a new dryer</li>
+</ul>
+<p>Article about the importance of replacing a worn dryer drum felt seal</p>
+<ul>
+<li>Finding tears in clothes after removing them from the dryer</li>
+<li>Felt drum seal on dryer is worn</li>
+<li>Need to replace the worn felt drum seal</li>
+<li>Clothes slipping between drum and dryer cabinet</li>
+<li>Dryer drum spinning and causing holes in clothing</li>
+<li>Installing a new dryer drum felt seal</li>
+<li>Extending the life of the dryer</li>
+<li>Preventing damage to clothes</li>
+</ul>
 </details>

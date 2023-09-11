@@ -70,8 +70,9 @@ The Drew Barrymore Show sets itself apart from other daytime talk shows through 
 
 
 
+
 <details>
-  <summary>Full summary</summary>
+        <summary>Full summary</summary>
 <p>The Drew Barrymore Show is set to make its highly anticipated return to television for its fourth season. However, the show's comeback is not without controversy. The ongoing writers and actors strikes have cast a shadow over the production, with the Writers Guild of America announcing their plans to picket outside the show's studios.</p>
 <p>Drew Barrymore, the beloved host of the show, took to Instagram to share the news of the show's return. She also made it clear that the show will comply with the strike rules, meaning it will be produced without writers. This decision mirrors ABC's The View, which also continued production without literary material during the strike.</p>
 <p>The fourth season of The Drew Barrymore Show is set to premiere on September 18th. Fans can expect exciting new features and surprises, including a new segment called 'Take Care Everywhere'. This segment aims to tackle tough questions and provide answers to topics that many people are too embarrassed to ask their own doctors. Drew Barrymore will be joined by special guest Dr. Suzanne Gilberg-Lenz from The Menopause Bootcamp.</p>

@@ -55,21 +55,15 @@ City of Wind suggests a hopeful future for young Mongolians as they navigate tra
 
 
 
+
 <details>
-  <summary>Full summary</summary>
-The young people of Mongolia are caught between centuries of tradition and the demands of the modern world in City of Wind, the new film.
-
-City of Wind follows the relationship between Ze, a 17-year-old Mongolian shaman, and Maralaa, a young woman who takes him into the urban world of Ulaanbaatar, Mongolia's capital city. The film explores the fragile connection between the two teens and the surprising juxtaposition between Ze's shamanic background and regular teenage life. Tergel Bold-Erdene delivers an outstanding performance as Ze and was honored with the Best Actor award at the Venice Horizons sidebar.
-
-Director Lkhagvadulam Purev-Ochir's quiet and confident debut captures the acknowledgment of Mongolia's ancient heritage and the focus on Ulaanbaatar's modern metropolis. The film beautifully depicts the tensions between tradition and modernity and the aspirations and dreams of the main characters. It showcases the reconciliation of Ze's two halves of life, as he navigates the strangeness of the family business and develops a crush on Maralaa.
-
-City of Wind premiered in Venice and is set to screen at the Toronto International Film Festival. The film has garnered international attention, with Brussels-based company Best Friend Forever acquiring its international rights. Purev-Ochir, known for her high-profile short films such as Mountain Cat and Snow in September, has created a timeless story that captures the essence of becoming a shaman.
-
-Produced by Aurora Films and co-produced by Guru Media, Uma Pedro No Sapato, Volya Films, 27 Films Production, and VOO by Mobinet, City of Wind showcases the talent of young Mongolian actors, including Tergel Bold-Erdene and Nomin-Erdene Ariunbyamba. The crew, led by DOP Vasco Carvalho Viana and editor Matthieu Taponier, has delivered exceptional work.
-
-In a statement, director Lkhagvadulam Purev-Ochir speaks about the film's themes, including the depiction of a violent event in a boy's life, the struggle to comprehend emotions and cultural expectations of masculinity, and the impact of violence on emotional well-being. The film is a graceful depiction of tradition/modernity tensions, with a strong emphasis on tender feelings and careful storytelling.
-
-As Roberto Cicutto, President of La Biennale di Venezia, said, cinema plays a vital role as a witness to the past and present, a visionary anticipating the future, and a narrator of inner strength against injustice and abuse of power.
-
-City of Wind is a long-reaching and exciting news piece that captivates audiences with its powerful portrayal of the challenges faced by young Mongolians as they navigate tradition and the modern world. It is a must-watch film that will leave a lasting impact.
+        <summary>Full summary</summary>
+<p>The young people of Mongolia are caught between centuries of tradition and the demands of the modern world in City of Wind, the new film.</p>
+<p>City of Wind follows the relationship between Ze, a 17-year-old Mongolian shaman, and Maralaa, a young woman who takes him into the urban world of Ulaanbaatar, Mongolia's capital city. The film explores the fragile connection between the two teens and the surprising juxtaposition between Ze's shamanic background and regular teenage life. Tergel Bold-Erdene delivers an outstanding performance as Ze and was honored with the Best Actor award at the Venice Horizons sidebar.</p>
+<p>Director Lkhagvadulam Purev-Ochir's quiet and confident debut captures the acknowledgment of Mongolia's ancient heritage and the focus on Ulaanbaatar's modern metropolis. The film beautifully depicts the tensions between tradition and modernity and the aspirations and dreams of the main characters. It showcases the reconciliation of Ze's two halves of life, as he navigates the strangeness of the family business and develops a crush on Maralaa.</p>
+<p>City of Wind premiered in Venice and is set to screen at the Toronto International Film Festival. The film has garnered international attention, with Brussels-based company Best Friend Forever acquiring its international rights. Purev-Ochir, known for her high-profile short films such as Mountain Cat and Snow in September, has created a timeless story that captures the essence of becoming a shaman.</p>
+<p>Produced by Aurora Films and co-produced by Guru Media, Uma Pedro No Sapato, Volya Films, 27 Films Production, and VOO by Mobinet, City of Wind showcases the talent of young Mongolian actors, including Tergel Bold-Erdene and Nomin-Erdene Ariunbyamba. The crew, led by DOP Vasco Carvalho Viana and editor Matthieu Taponier, has delivered exceptional work.</p>
+<p>In a statement, director Lkhagvadulam Purev-Ochir speaks about the film's themes, including the depiction of a violent event in a boy's life, the struggle to comprehend emotions and cultural expectations of masculinity, and the impact of violence on emotional well-being. The film is a graceful depiction of tradition/modernity tensions, with a strong emphasis on tender feelings and careful storytelling.</p>
+<p>As Roberto Cicutto, President of La Biennale di Venezia, said, cinema plays a vital role as a witness to the past and present, a visionary anticipating the future, and a narrator of inner strength against injustice and abuse of power.</p>
+<p>City of Wind is a long-reaching and exciting news piece that captivates audiences with its powerful portrayal of the challenges faced by young Mongolians as they navigate tradition and the modern world. It is a must-watch film that will leave a lasting impact.</p>
 </details>

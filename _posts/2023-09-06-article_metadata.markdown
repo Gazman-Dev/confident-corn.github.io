@@ -35,7 +35,101 @@ The potential implications of Griezmann's move to MLS on the marketing and footb
 ## What are the key factors that led Manchester United to be interested in signing Gabriel Barbosa?
 There are several key factors that have led Manchester United to be interested in signing Gabriel Barbosa. Firstly, Barbosa's impressive form at the Rio Olympics has caught the attention of top clubs, including Manchester United. His performances and goal-scoring ability have proven that he has the potential to be a top striker. Secondly, Barbosa's desire to play in the Premier League aligns with United's ambitions to strengthen their attacking options and compete at the highest level. Additionally, the presence of Jose Mourinho, who has a good relationship with Barbosa, puts United in a favorable position to secure his signature. Lastly, although the transfer fee demanded by Santos is substantial, United is willing to meet them halfway, indicating their strong interest in acquiring Barbosa's services.
 
+
 <details>
-  <summary>Full summary</summary>
-Atletico Madrid are aware of potential offers for Antoine Griezmann from MLS clubs, while Wolves have joined the pursuit of Jesse Lingard as a free agent.<br><br>Transfer updates and gossip:<br>- Atletico Madrid expecting Antoine Griezmann to ask for an MLS transfer next summer. Multiple clubs in the U.S. league have made offers to Griezmann's representatives.<br>- Atletico Madrid is open to accepting an offer if it meets their valuation of Griezmann's transfer rights.<br>- Griezmann rejoined Atleti from Barcelona for €20 million last October.<br>- Manchester United unlikely to pursue João Palhinha.<br>- AC Milan keen on Real Betis full-back Juan Miranda.<br>- Wolves join the race for free agent Jesse Lingard.<br>- Barcelona has the option to sign Abde Ezzalzouli back from Real Betis.<br>- Crystal Palace and Fulham interested in Flamengo striker Gabriel Barbosa.<br>- Everton agrees on a deal to sign winger Demarai Gray.<br><br>Antoine Griezmann discusses his career goals and thoughts on the new LaLiga season:<br>- Antoine Griezmann compares last year's poor start to this year as Atletico Madrid look to challenge for LaLiga alongside Barcelona and Real Madrid.<br>- Antoine Griezmann admits following Lionel Messi's exploits at Inter Miami and hopes to end his career playing in MLS.<br>- Messi has scored in every one of his Inter Miami appearances so far with nine goals in six matches.<br>- Griezmann is a long-term admirer of U.S. sports and culture and wants to experience life in MLS in the future.<br>- Griezmann praises Messi as the best in history and believes his arrival in MLS is beneficial for marketing and football.<br>- Griezmann aims to make history at Atletico Madrid but also wants to try his luck in the U.S.<br>- Griezmann thinks the arrival of Messi, Busquets, and Alba is good for LaLiga.<br>- Griezmann wouldn't rule out a move to Saudi Arabia, but is currently focused on challenging for the LaLiga title with Atletico.<br>- Griezmann wants to improve, score goals, win the league, and be in the Champions League fight.<br>- Griezmann empathizes with teammate João Félix, who was whistled by fans after expressing his desire to join Barcelona.<br><br>Article about a midfielder's opinion on his old club's situation:<br>- The midfielder believes his old club needs to 'catch up' behind the scenes.<br><br>Major transfers for Nottingham Forest, Sheffield United, Tottenham, West Ham, and Wolves:<br>- Andrey Santos joins Nottingham Forest on loan from Chelsea.<br>- Anthony Elanga transfers to Nottingham Forest from Man Utd.<br>- Chris Wood signs for Newcastle from Burnley.<br>- Gonzalo Montiel joins Nottingham Forest on loan from Sevilla.<br>- Matt Turner transfers to Nottingham Forest from Arsenal.<br>- Ola Aina moves to Nottingham Forest from Torino.<br>- Andre Ayew, Jack Colback, Jesse Lingard, and Lyle Taylor are released by Nottingham Forest.<br>- Sam Surridge joins Nashville from Nottingham Forest.<br>- Steve Cook moves to QPR from Nottingham Forest.<br>- Gustavo Scarpa and Omar Richards go on loan to Olympiakos from Nottingham Forest.<br>- Murillo joins Nottingham Forest from Brazil.<br>- Nuno Tavares signs for Nottingham Forest from Arsenal.<br>- Michy Batshuayi linked with a move to Nottingham Forest.<br>- Anis Slimane transfers to Sheffield United from Brondby.<br>- Auston Trusty joins Sheffield United from Arsenal.<br>- Benie Traore signs for Sheffield United from Hacken.<br>- Cameron Archer moves to Sheffield United from Aston Villa.<br>- Gustavo Hamer joins Sheffield United from Coventry.<br>- Tom Davies signs for Sheffield United as a free agent.<br>- Vinicius Souza transfers to Sheffield United from Lommel.<br>- Yasser Larouci moves to Sheffield United from Troyes.<br>- Luke Thomas joins Sheffield United from Leicester.<br>- Billy Sharp, Edna Stevens, Jack O'Connell, and Kyron Gordon are released by Sheffield United.<br>- Iliman Ndiaye goes on loan to Marseille from Sheffield United.<br>- Sander Berge transfers to Burnley from Sheffield United.<br>- James McAtee linked with a return to Sheffield United.<br>- Alejo Veliz signs for Tottenham from Rosario Central.<br>- Ashley Phillips joins Tottenham from Blackburn.<br>- Dejan Kulusevski transfers to Tottenham from Juventus.<br>- Guglielmo Vicario signs for Tottenham from Empoli.<br>- James Maddison joins Tottenham from Leicester.<br>- Manor Solomon signs for Tottenham as a free agent.<br>- Micky van de Ven transfers to Tottenham from Wolfsburg.<br>- Pedro Porro joins Tottenham from Sporting.<br>- Alfie Devine goes on loan to Port Vale from Tottenham.<br>- Harry Kane transfers to Bayern Munich from Tottenham.<br>- Harry Winks moves to Leicester from Tottenham.<br>- Joe Rodon goes on loan to Leeds from Tottenham.<br>- Lucas Moura is released by Tottenham.<br>- Troy Parrott goes on loan to Excelsior from Tottenham.<br>- Edson Alvarez joins West Ham from Ajax.<br>- James Ward-Prowse signs for West Ham from Southampton.<br>- Konstantinos Mavropanos transfers to West Ham from Stuttgart.<br>- Mohammed Kudus joins West Ham from Ajax.<br>- Arthur Masuaku moves to Besiktas from West Ham.<br>- Declan Rice transfers to Arsenal from West Ham.<br>- Flynn Downes goes on loan to Southampton from West Ham.<br>- Gianluca Scamacca joins Atalanta from West Ham.<br>- Nikola Vlasic moves to Torino from West Ham.<br>- Danny Ings linked with a move to West Ham.<br>- Hugo Ekitike linked with a move to West Ham.<br>- Matt Doherty joins Wolves from Atletico Madrid.<br>- Enso Gonzalez signs for Wolves from Libertad.<br>- Adama Traore, Diego Costa, and Joao Moutinho are released by Wolves.<br>- Chem Campbell goes on loan to Charlton from Wolves.<br>- Nathan Collins joins Brentford from Wolves.<br>- Raul Jimenez moves to Fulham from Wolves.<br>- Ruben Neves transfers to Al-Hilal from Wolves.<br>- Ryan Giles goes on loan to Luton from Wolves.<br>- Ki-Jana Hoever and Chiquinho go on loan to Stoke from Wolves.<br><br>Article about Manchester United's interest in signing Gabriel Barbosa:<br>- Manchester United ready to launch a £30 million deal for Gabriel Barbosa.<br>- Leicester, Inter Milan, Juventus, Bayern Munich, and Atletico Madrid are also interested in the striker.<br>- Gabriel Barbosa wants to play in the Premier League.<br>- Jose Mourinho is in pole position to sign Barbosa.<br>- Barbosa's form at the Rio Olympics has attracted interest from top clubs.<br>- Santos demands a £26 million transfer fee, plus a £4 million commission fee to the agent.<br>- Barbosa chooses Manchester United over other clubs.<br>- United is willing to meet Santos halfway to secure the transfer.
+        <summary>Full summary</summary>
+<p>Atletico Madrid are aware of potential offers for Antoine Griezmann from MLS clubs, while Wolves have joined the pursuit of Jesse Lingard as a free agent.</p>
+<p>Transfer updates and gossip:
+- Atletico Madrid expecting Antoine Griezmann to ask for an MLS transfer next summer. Multiple clubs in the U.S. league have made offers to Griezmann's representatives.
+- Atletico Madrid is open to accepting an offer if it meets their valuation of Griezmann's transfer rights.
+- Griezmann rejoined Atleti from Barcelona for €20 million last October.
+- Manchester United unlikely to pursue João Palhinha.
+- AC Milan keen on Real Betis full-back Juan Miranda.
+- Wolves join the race for free agent Jesse Lingard.
+- Barcelona has the option to sign Abde Ezzalzouli back from Real Betis.
+- Crystal Palace and Fulham interested in Flamengo striker Gabriel Barbosa.
+- Everton agrees on a deal to sign winger Demarai Gray.</p>
+<p>Antoine Griezmann discusses his career goals and thoughts on the new LaLiga season:
+- Antoine Griezmann compares last year's poor start to this year as Atletico Madrid look to challenge for LaLiga alongside Barcelona and Real Madrid.
+- Antoine Griezmann admits following Lionel Messi's exploits at Inter Miami and hopes to end his career playing in MLS.
+- Messi has scored in every one of his Inter Miami appearances so far with nine goals in six matches.
+- Griezmann is a long-term admirer of U.S. sports and culture and wants to experience life in MLS in the future.
+- Griezmann praises Messi as the best in history and believes his arrival in MLS is beneficial for marketing and football.
+- Griezmann aims to make history at Atletico Madrid but also wants to try his luck in the U.S.
+- Griezmann thinks the arrival of Messi, Busquets, and Alba is good for LaLiga.
+- Griezmann wouldn't rule out a move to Saudi Arabia, but is currently focused on challenging for the LaLiga title with Atletico.
+- Griezmann wants to improve, score goals, win the league, and be in the Champions League fight.
+- Griezmann empathizes with teammate João Félix, who was whistled by fans after expressing his desire to join Barcelona.</p>
+<p>Article about a midfielder's opinion on his old club's situation:
+- The midfielder believes his old club needs to 'catch up' behind the scenes.</p>
+<p>Major transfers for Nottingham Forest, Sheffield United, Tottenham, West Ham, and Wolves:
+- Andrey Santos joins Nottingham Forest on loan from Chelsea.
+- Anthony Elanga transfers to Nottingham Forest from Man Utd.
+- Chris Wood signs for Newcastle from Burnley.
+- Gonzalo Montiel joins Nottingham Forest on loan from Sevilla.
+- Matt Turner transfers to Nottingham Forest from Arsenal.
+- Ola Aina moves to Nottingham Forest from Torino.
+- Andre Ayew, Jack Colback, Jesse Lingard, and Lyle Taylor are released by Nottingham Forest.
+- Sam Surridge joins Nashville from Nottingham Forest.
+- Steve Cook moves to QPR from Nottingham Forest.
+- Gustavo Scarpa and Omar Richards go on loan to Olympiakos from Nottingham Forest.
+- Murillo joins Nottingham Forest from Brazil.
+- Nuno Tavares signs for Nottingham Forest from Arsenal.
+- Michy Batshuayi linked with a move to Nottingham Forest.
+- Anis Slimane transfers to Sheffield United from Brondby.
+- Auston Trusty joins Sheffield United from Arsenal.
+- Benie Traore signs for Sheffield United from Hacken.
+- Cameron Archer moves to Sheffield United from Aston Villa.
+- Gustavo Hamer joins Sheffield United from Coventry.
+- Tom Davies signs for Sheffield United as a free agent.
+- Vinicius Souza transfers to Sheffield United from Lommel.
+- Yasser Larouci moves to Sheffield United from Troyes.
+- Luke Thomas joins Sheffield United from Leicester.
+- Billy Sharp, Edna Stevens, Jack O'Connell, and Kyron Gordon are released by Sheffield United.
+- Iliman Ndiaye goes on loan to Marseille from Sheffield United.
+- Sander Berge transfers to Burnley from Sheffield United.
+- James McAtee linked with a return to Sheffield United.
+- Alejo Veliz signs for Tottenham from Rosario Central.
+- Ashley Phillips joins Tottenham from Blackburn.
+- Dejan Kulusevski transfers to Tottenham from Juventus.
+- Guglielmo Vicario signs for Tottenham from Empoli.
+- James Maddison joins Tottenham from Leicester.
+- Manor Solomon signs for Tottenham as a free agent.
+- Micky van de Ven transfers to Tottenham from Wolfsburg.
+- Pedro Porro joins Tottenham from Sporting.
+- Alfie Devine goes on loan to Port Vale from Tottenham.
+- Harry Kane transfers to Bayern Munich from Tottenham.
+- Harry Winks moves to Leicester from Tottenham.
+- Joe Rodon goes on loan to Leeds from Tottenham.
+- Lucas Moura is released by Tottenham.
+- Troy Parrott goes on loan to Excelsior from Tottenham.
+- Edson Alvarez joins West Ham from Ajax.
+- James Ward-Prowse signs for West Ham from Southampton.
+- Konstantinos Mavropanos transfers to West Ham from Stuttgart.
+- Mohammed Kudus joins West Ham from Ajax.
+- Arthur Masuaku moves to Besiktas from West Ham.
+- Declan Rice transfers to Arsenal from West Ham.
+- Flynn Downes goes on loan to Southampton from West Ham.
+- Gianluca Scamacca joins Atalanta from West Ham.
+- Nikola Vlasic moves to Torino from West Ham.
+- Danny Ings linked with a move to West Ham.
+- Hugo Ekitike linked with a move to West Ham.
+- Matt Doherty joins Wolves from Atletico Madrid.
+- Enso Gonzalez signs for Wolves from Libertad.
+- Adama Traore, Diego Costa, and Joao Moutinho are released by Wolves.
+- Chem Campbell goes on loan to Charlton from Wolves.
+- Nathan Collins joins Brentford from Wolves.
+- Raul Jimenez moves to Fulham from Wolves.
+- Ruben Neves transfers to Al-Hilal from Wolves.
+- Ryan Giles goes on loan to Luton from Wolves.
+- Ki-Jana Hoever and Chiquinho go on loan to Stoke from Wolves.</p>
+<p>Article about Manchester United's interest in signing Gabriel Barbosa:
+- Manchester United ready to launch a £30 million deal for Gabriel Barbosa.
+- Leicester, Inter Milan, Juventus, Bayern Munich, and Atletico Madrid are also interested in the striker.
+- Gabriel Barbosa wants to play in the Premier League.
+- Jose Mourinho is in pole position to sign Barbosa.
+- Barbosa's form at the Rio Olympics has attracted interest from top clubs.
+- Santos demands a £26 million transfer fee, plus a £4 million commission fee to the agent.
+- Barbosa chooses Manchester United over other clubs.
+- United is willing to meet Santos halfway to secure the transfer.</p>
 </details>

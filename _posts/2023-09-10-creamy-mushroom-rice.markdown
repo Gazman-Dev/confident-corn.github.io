@@ -77,8 +77,9 @@ To make a vegan mushroom risotto creamy without using dairy, there are several m
 
 
 
+
 <details>
-  <summary>Full summary</summary>
+        <summary>Full summary</summary>
 <p>The author found leftover rice and mushrooms in their fridge and decided to make a creamy dish similar to mushroom risotto. They did not have risotto rice, so they made a roux with butter and flour instead. Adding heavy cream and seasonings to the rice, they created a warm, comforting, creamy, and savory dish. To enhance the flavors, they topped the dish with roasted mushrooms.</p>
 <p>The dish is packed with flavor from Sparoza Handcrafted Cooking Blend. This cooking blend includes fresh herbs like thyme, rosemary, coriander, and bay leaves, adding a delightful aroma. The blend also adds tanginess from lemon zest, which nicely compliments the parmesan and peas in the dish. Despite its rich flavors, only a teaspoon of Sparoza Handcrafted Cooking Blend is added to this recipe.</p>
 <p>Creamy Mushroom Rice can be served as an accompaniment to roast chicken, a fish dish, or a veggie main. It can also be topped with your favorite protein for a complete and satisfying meal.</p>

@@ -80,8 +80,9 @@ The pandemic has significantly affected the short-term rental market. While some
 
 
 
+
 <details>
-  <summary>Full summary</summary>
+        <summary>Full summary</summary>
 <p>New York City has recently implemented strict regulations on short-term rentals, creating a heated debate among residents, hoteliers, and platforms like Airbnb. The implementation of Local Law 18, also known as the Short-Term Rental Registration Law, aims to address the disruptive nature of short-term rentals, safety concerns, illegal hotels, rising housing costs, and mass hotel vacancies.</p>
 <p>Under the new regulations, all short-term rental hosts must register with the city. Only hosts who live in the place they're renting and are present when someone is staying can qualify. Guests are limited to two people per rental.</p>
 <p>The city sees these regulations as necessary to tackle the negative impact of short-term rentals on the housing market and the local community. However, Airbnb sees the new rules as a 'de facto ban' that will remove over 10,000 listings from the platform. The company argues that short-term rentals provide a valuable source of income for many hosts, especially in times of financial hardship.</p>
