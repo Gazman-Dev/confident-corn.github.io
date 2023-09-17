@@ -49,7 +49,7 @@ carousel_sources:
   icon_path: /assets/c7c01f96-b411-43cd-b93a-1bcceefc20d6/source8_icon.jpg
   image_path: /assets/c7c01f96-b411-43cd-b93a-1bcceefc20d6/source8.jpg
   link: https://www.metmuseum.org/toah/hd/chnl/hd_chnl.htm
-  title: "Gabrielle "Coco" Chanel (1883\u20131971) and the House of Chanel\
+  title: Gabrielle Coco Chanel and the House of Chanel\
     \ | Essay | The Metropolitan Museum of Art | Heilbrunn Timeline of Art History"
 - domain: www.britannica.com
   icon_path: /assets/c7c01f96-b411-43cd-b93a-1bcceefc20d6/source9_icon.jpg
