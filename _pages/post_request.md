@@ -4,10 +4,6 @@ title: Article Request
 permalink: /request/
 ---
 
-Absolutely, Ilya! I'll simplify the instructions while still ensuring all essential points are covered. Here it is in Markdown format:
-
----
-
 # Coming soon...
 ### How to Request New Articles on Confident Corn
 
@@ -19,7 +15,7 @@ Requesting new articles is simple! All you have to do is make a public post on F
 
 **Example:**
 ```
-Hey @ConfidentCorn, I'd love to read an article about the recent advancements in renewable energy.
+Hey @Confident Corn, I'd love to read an article about the recent advancements in renewable energy.
 ```
 
 After your post, our AI will get to work on bringing you the content you requested, complete with our unique article summaries and interactive questions.
