@@ -3,7 +3,7 @@ layout: post
 title:  "Is technology shaping our attention spans: for better or worse?"
 description: "In today's digital age, our attention spans are constantly being tested. A recent study analyzed the effects of technology on attention spans and found some interesting results."
 date:   2023-10-12 17:01:27 -0400
-image: 'assets/374fff79-2ad1-4bb2-9748-25de71c94da6/combined.jpg'
+image: '/assets/374fff79-2ad1-4bb2-9748-25de71c94da6/combined.jpg'
 author: 'jack'
 sources: https://time.com/3858309/attention-spans-goldfish/ https://www.kcl.ac.uk/news/are-attention-spans-really-collapsing-data-shows-uk-public-are-worried-but-also-see-benefits-from-technology https://elearningindustry.com/8-second-attention-span-organizational-learning https://www.microsoft.com/en-us/worklab/podcast/regain-control-of-your-focus-and-attention-with-researcher-gloria-mark https://blog.innerdrive.co.uk/mobile-phones-and-concentration https://www.pewresearch.org/short-reads/2019/09/09/us-generations-technology-use/
 tags: ["technology"]
