@@ -1,0 +1,67 @@
+---
+layout: post
+title:  "Will Trump be disqualified from the 2024 ballot based on his involvement in the Capitol riot?"
+description: "Efforts to bar former President Donald Trump from the 2024 ballot under the 14th Amendment are gaining momentum across various states. Advocacy groups and legal scholars argue that Trump's involvement in encouraging the Capitol riot disqualifies him from seeking the presidency."
+date:   2023-11-05 13:23:33 -0500
+image: '/assets/cc18a8e0-5480-40df-9566-93a6baf845f8/combined.jpg'
+author: 'jack'
+sources: https://newjerseymonitor.com/2023/09/15/attempt-to-bar-donald-trump-from-2024-ballot-lands-in-new-jersey/ https://michiganadvance.com/2023/08/29/activist-files-legal-challenge-to-disqualify-trump-from-2024-presidential-race-in-michigan/ https://abcnews.go.com/Politics/14th-amendment-section-3-new-legal-battle-trump/story?id=102547316 https://www.pbs.org/newshour/politics/judge-overseeing-case-to-remove-trump-from-2024-ballot-issues-protective-order-amid-fear-of-threats-intimidation https://abcnews.go.com/Politics/trump-challenges-argument-14th-amendment-disqualifies-2024-trail/story?id=102938397
+tags: ["world news"]
+carousel_sources:
+- domain: newjerseymonitor.com
+  icon_path: /assets/cc18a8e0-5480-40df-9566-93a6baf845f8/source1_icon.jpg
+  image_path: /assets/cc18a8e0-5480-40df-9566-93a6baf845f8/source1.jpg
+  link: https://newjerseymonitor.com/2023/09/15/attempt-to-bar-donald-trump-from-2024-ballot-lands-in-new-jersey/
+  title: Attempt to bar Donald Trump from 2024 ballot lands in New Jersey - New Jersey
+    Monitor
+- domain: michiganadvance.com
+  icon_path: /assets/cc18a8e0-5480-40df-9566-93a6baf845f8/source2_icon.jpg
+  image_path: /assets/cc18a8e0-5480-40df-9566-93a6baf845f8/source2.jpg
+  link: https://michiganadvance.com/2023/08/29/activist-files-legal-challenge-to-disqualify-trump-from-2024-presidential-race-in-michigan/
+  title: "Activist files legal challenge to disqualify Trump from 2024 presidential\
+    \ race in Michigan \u22C6 Michigan Advance"
+- domain: abcnews.go.com
+  icon_path: /assets/cc18a8e0-5480-40df-9566-93a6baf845f8/source3_icon.jpg
+  image_path: /assets/cc18a8e0-5480-40df-9566-93a6baf845f8/source3.jpg
+  link: https://abcnews.go.com/Politics/14th-amendment-section-3-new-legal-battle-trump/story?id=102547316
+  title: '14th Amendment, Section 3: A new legal battle against Trump takes shape
+    - ABC News'
+- domain: www.pbs.org
+  icon_path: /assets/cc18a8e0-5480-40df-9566-93a6baf845f8/source4_icon.jpg
+  image_path: /assets/cc18a8e0-5480-40df-9566-93a6baf845f8/source4.jpg
+  link: https://www.pbs.org/newshour/politics/judge-overseeing-case-to-remove-trump-from-2024-ballot-issues-protective-order-amid-fear-of-threats-intimidation
+  title: Judge overseeing case to remove Trump from 2024 ballot issues protective
+    order amid fear of threats, intimidation | PBS NewsHour
+- domain: abcnews.go.com
+  icon_path: /assets/cc18a8e0-5480-40df-9566-93a6baf845f8/source5_icon.jpg
+  image_path: /assets/cc18a8e0-5480-40df-9566-93a6baf845f8/source5.jpg
+  link: https://abcnews.go.com/Politics/trump-challenges-argument-14th-amendment-disqualifies-2024-trail/story?id=102938397
+  title: Trump challenges argument 14th Amendment disqualifies him in 2024, and more
+    trail takeaways - ABC News
+
+---
+
+## What is the legal basis for the efforts to bar Trump from the 2024 ballot?
+The legal basis for the efforts to bar Trump from the 2024 ballot is grounded in Section 3 of the 14th Amendment, which prohibits individuals who have engaged in insurrection or rebellion from holding office. This provision has not been enforced in over 160 years, but conservative legal scholars argue that Trump's involvement in encouraging the Capitol riot qualifies as engaging in insurrection.
+
+## What are the arguments from both supporters and critics regarding Trump's disqualification?
+Supporters of Trump's disqualification argue that his actions on January 6, 2021, fit the criteria of engaging in insurrection, as he encouraged his supporters to storm the Capitol. They believe that allowing Trump to run for president again would set a dangerous precedent and undermine the stability of the democracy. Critics, however, question the practicality and procedural aspects of disqualifying a former president from running for office. They argue that it may violate the principle of due process and that the decision to disqualify should be left to the voters rather than the courts.
+
+## What are the potential implications of this legal battle for the future of American politics?
+The potential implications of this legal battle for the future of American politics are significant. If Trump is successfully barred from the 2024 ballot, it would establish a precedent for disqualifying individuals who have engaged in insurrection or rebellion from running for office. This could have a chilling effect on political figures who incite or support violent actions. It may also lead to a reevaluation of the balance between free speech and accountability for public officials. On the other hand, if Trump is allowed to run for president again, it could deepen the divide within the country and further polarize the political landscape. It may also raise questions about the long-term consequences of holding elected officials accountable for their actions. Overall, this legal battle has the potential to shape the future of American democracy and the political discourse for years to come.
+
+
+
+<details>
+  <summary>Full summary</summary>
+<p>Efforts to bar former President Donald Trump from the 2024 ballot under the 14th Amendment are gaining momentum across various states. Advocacy groups and legal scholars argue that Trump's involvement in encouraging the Capitol riot disqualifies him from seeking the presidency.</p>
+<p>In New Jersey, a man has filed a legal challenge arguing that Trump should be barred from the 2024 ballot under the 14th Amendment. Similar efforts have been mounted in California, Colorado, and Minnesota, among others. The legal theory is based on Section 3 of the 14th Amendment, which bars individuals who have engaged in insurrection or rebellion from holding office.</p>
+<p>Rutgers University Newark law professor Ronald Chen stated that Section 3 has not been enforced in over 160 years. However, the push to exclude Trump from the 2024 ballot began with a report from two conservative legal scholars at the University of Pennsylvania.</p>
+<p>Polls show Trump as the front-runner for the Republican nomination and tied in general election matchups with President Biden. However, the efforts to remove Trump from the ballot have gained steam, with conservative scholars suggesting that the 14th Amendment disqualification is possible.</p>
+<p>The legal challenges have been met with skepticism, and Secretaries of state in at least three states have stated that they have no power to remove Trump from the ballot. Rutgers law professor Ronald Chen has expressed doubts over the applicability of Section 3 and questions whether it is self-executing.</p>
+<p>Trump, who has been accused by federal prosecutors of illegal actions related to the Capitol riot, dismisses the disqualification push. However, former and current military officers who engage in insurrection are subject to exclusion from office under Section 3 of the 14th Amendment.</p>
+<p>The issue has sparked intense debate, with both supporters and critics weighing in. Advocacy groups claim that Trump's actions on Jan. 6, 2021, fit the criteria of engaging in insurrection, while Trump insists he did nothing wrong.</p>
+<p>The lawsuits filed in different states raise concerns about the practicality and procedural aspects of disqualifying a former president from running for office. However, several legal scholars, including prominent conservative J. Michael Luttig and Harvard Law Professor Emeritus Laurence Tribe, argue that the 14th Amendment disqualifies Trump from returning to the Oval Office.</p>
+<p>The lawsuits are expected to continue and could ultimately reach the U.S. Supreme Court, where the question of Trump's candidacy may be decided. In the meantime, election officials in key states are preparing and responding to the legal challenges, seeking clarification on the applicability of the 14th Amendment provision.</p>
+<p>Overall, the efforts to bar former President Trump from the 2024 ballot have become a long-reaching and exciting news story, with important legal implications for the future of American politics.</p>
+</details>
