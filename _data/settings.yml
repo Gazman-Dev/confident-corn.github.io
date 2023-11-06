@@ -1,7 +1,7 @@
 #-------------------------------
 # Site Settings
 title: Confident Corn
-description: When latest GPT AI combined with Google search to deliver news -> Confident Corn
+description: When latest GPT AI combined with Bing search to deliver news -> Confident Corn
 logo: "/images/logo.svg"
 logo_dark: "/images/logo-dark.svg"
 color_scheme: auto # You can choose three modes auto, light, and dark. By default, the auto mode is set, which means the user can choose the light or dark mode themself.
@@ -14,6 +14,9 @@ menu_settings:
   menu_items:
     - title: "Home"
       url: "/"
+
+    - title: "Generate"
+      url: "/generate/"
 
     - title: "Latest"
       url: "/latest/"
@@ -33,16 +36,16 @@ menu_settings:
 # Call to action button
 cta_button:
   enable: true
-  cta_button_link: '/contact/'
-  cta_button_text: Get in touch
+  cta_button_link: '/generate/'
+  cta_button_text: Generate Article
 
 
 #-------------------------------
 # Hero Settings
 hero:
   enable: false
-  hero_title: "AI Made News powered by Google Search and ChatGPT"
-  hero_description: With a passion for quality, Confident Corn bot gathers recent news, crawls the web with Google,  and under ChatGPT's expert hand, crafts an extraordinary, unbiased, unparalleled, breathtaking, awe-inspiring, superb news creation. (Don't mind the AI pictures, though, it is work in progress...)
+  hero_title: "AI Made News powered by Bing Search and ChatGPT"
+  hero_description: With a passion for quality, Confident Corn bot gathers recent news, crawls the web with Bing,  and under ChatGPT's expert hand, crafts an extraordinary, unbiased, unparalleled, breathtaking, awe-inspiring, superb news creation. (Don't mind the AI pictures, though, it is work in progress...)
 
 
 #-------------------------------

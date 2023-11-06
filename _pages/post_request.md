@@ -1,13 +1,12 @@
 ---
 layout: page
-title: Article Request
-permalink: /request/
+title: Article Generation
+permalink: /generate/
 ---
 
-# Coming soon...
-### How to Request New Articles on Confident Corn
+### How to Generate Articles on Confident Corn
 
-Requesting new articles is simple! All you have to do is make a public post on Facebook and tag our official page.
+Generating articles is simple! All you have to do is make a public post on Facebook and tag our official page.
 
 
 - **Public Post**: Make sure your post is set to 'Public' so we can see it.
